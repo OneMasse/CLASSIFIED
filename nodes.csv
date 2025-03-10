@@ -1,0 +1,1541 @@
+id,name
+8419ee9d-d2c6-4588-afcc-42719e835f63,IT Skills
+25c84a98-4d0b-45e6-8b32-91ea81fe36a0,Software Development
+d76e865c-4a60-49cb-8f42-39360d372640,Frontend Development
+b54cb38a-27ab-4d51-ba3e-6804f8b70aba,Languages
+b10e6d71-d27e-48a6-b9a4-cb6eeeb77d62,HTML
+5b5d3c0f-ee20-4c97-93c7-f9c34b485679,CSS
+ea678633-ed0f-4c68-9d8d-e14cb4cfd4dc,JavaScript
+e4f56225-ceff-4de7-9da1-c746d1876234,TypeScript
+0fff988f-a6fc-41b9-9374-f996f987694b,Frameworks & Libraries
+6d193878-3d9e-44e5-bcb9-f576b96ed311,UI Frameworks/Libraries
+e8955037-8a56-4efd-9362-3251bba7e119,React
+392ef1ef-0414-4e35-8393-851926e62f58,Angular
+ec9f4588-a5a2-44e1-89d5-239f27488951,Vue.js
+6f0ff7eb-873d-403b-b040-8aeb36c2c84f,Svelte
+68c03f35-ffcf-4606-8e7c-ed82139fe621,CSS Frameworks
+3f8d8890-15f9-4394-bacb-b063d87f65e1,Bootstrap
+c4de6a48-2c80-4155-9656-b2512dfc9c47,Tailwind CSS
+a3831dae-9054-47c7-bd1e-2759f679ed84,Bulma
+7527a596-0cbe-4ce7-a772-7373435884a4,Material-UI
+c60ef6bd-040e-44ef-a0fb-4a4c76b19e0f,Foundation
+c0de9a52-cc7e-417a-9c77-2cf4d4419c1a,State Management
+15a9aefb-33cf-40fb-9636-97e65d0c0bf4,Redux
+a66596e7-926a-4e22-b945-618847d9a71d,MobX
+e8bc9cf8-ed12-48ca-9ee3-2660eef84047,Context API
+78db4ea3-8f58-4a4d-b0f6-665e6b260281,NgRx
+e5a1ed68-e815-4cf9-b7e1-1c269ac3cfb9,Build Tools & Bundlers
+f336e4fc-1f64-46c5-a817-c63905ae28de,Webpack
+8c14dcad-314e-490a-af2c-249027d61727,Rollup
+4e6535ae-37e0-4f21-88c8-d78fdb22d22f,Parcel
+3690daca-24ca-45bf-829c-491c2668a411,Vite
+45b792a8-9854-492e-bea3-3725e0c5febf,Task Runners
+95a39248-1800-428f-adb0-5d39667f0d8d,Gulp
+2883cfd8-106f-423b-a880-d08a93f13c2f,Grunt
+a8990f96-b1b4-488b-8793-7bfa9fa2d70f,Testing Tools
+f2afd1f9-60b1-4cfd-8987-6b9b2010dcea,Jest
+960e5263-caae-4f30-aed7-4356801e7a25,Mocha
+9cca9c1e-fbb2-4a2c-98f0-b16368fcdd8a,Cypress
+bd6f3fa4-ecf7-48e1-add2-3b8cf09fa865,Karma
+72b01da0-1d54-44d9-9d02-11b758f20b62,React Testing Library
+98f2a18e-2c10-4a14-9407-a453f0a1290a,Animation Libraries
+d7b8fdfd-ea24-4a2a-b6ad-bb23392e8202,GSAP
+b51f5770-b105-426d-bef6-f064d4455e98,Anime.js
+dde6cad9-c0bb-47c0-8e72-32a84d0e1eb6,Framer Motion
+3a477279-b862-4d4a-b00c-0cf5f16b7b6d,Type Checking
+59555363-7870-49de-ab32-666034432ce4,TypeScript
+e9b356ed-573c-4d4b-9da6-8578efe0006f,Flow
+6b1debbc-48a9-431a-817b-5ed7a172cdb1,Performance & Optimization
+7ae4bb15-4f9c-46bc-8c89-eab2a7bd9c5c,Techniques
+1e29ad39-848f-4fc6-a82f-a50c55a65628,Code Splitting
+8f223857-04fe-4329-bcac-57f6ac1ca772,Lazy Loading
+a4f720cf-ff51-4c31-9471-7b73e6662697,Tree Shaking
+c5fbd5fe-d8e5-4eaa-8586-5cee2e07882e,Minification
+3d6bac8a-825b-4096-af4a-cfae258c8429,Caching Strategies
+87dd30c1-6220-4413-bde4-19176f8c0876,Tools
+2ddaa590-a204-4631-a655-77eeadaa38f4,Lighthouse
+7f2524f6-92ce-4480-81c2-0bd84130d0b2,Webpack Bundle Analyzer
+92bb089a-b98e-4b5e-ad12-bb9ce7771bd9,Accessibility & SEO
+fb92a919-d1c2-4cc2-92f1-265f4a7f05e7,Practices
+79ac4e75-6aa3-4d11-9e7e-227651b54ca8,ARIA Roles
+09adcce0-0311-4d62-ac73-fb67557de748,Semantic HTML
+76a02d72-85d5-40fb-970a-2fbe89f751e6,SEO Best Practices
+b4a8a94a-d421-41ef-aa5e-f35f4a49fcd4,Tools
+22b1b2bc-ce43-4c82-bab2-9c4be2a75670,axe-core
+c66b8443-16c1-4054-9621-6e2fb071c7f0,Google Lighthouse
+83a0f500-76b0-4b71-be27-6409845034ed,Design & Prototyping
+184bb791-8040-4947-b3e0-e18717248af4,Tools
+40cba2a2-a839-4fc3-9b24-6a24a43c12c7,Figma
+a481bd83-486d-4fe3-b878-e422485c7caa,Sketch
+6f99ee75-7479-41d5-8121-8dd19582989a,Adobe XD
+a883f553-8444-4824-969e-48e6a8b088fb,InVision
+d2d6dad3-f60e-4cd3-9023-ec5f2535919b,Practices
+acdf749e-894b-4f16-b4a0-2398b0d03398,Responsive Design
+30d4a190-d804-4fee-91a2-4029f83eb90b,Mobile-First Design
+90bd949f-7c5b-4747-89e6-8b68f8aa7868,UI/UX Principles
+18f6877b-04e6-4cc1-ab02-09aca08c1f15,Version Control & Collaboration
+c6e3a30e-0d0f-411f-8250-4cdd4e019599,Git
+22de038a-0ef8-4df7-994d-2aec01e582dd,GitHub
+fafb7cc7-e05b-4331-a287-d7c1de78261a,GitLab
+c8799ff7-6663-47b0-bd06-282138b88478,Bitbucket
+6bb3195c-261f-4137-95cd-c9845c57283d,Additional Skills
+4cfd565e-1a98-438f-8dd1-6ff7ffe14c8c,Browser Developer Tools
+5ea02a52-d1e8-49b3-a465-881d11fda2bf,Progressive Web Apps (PWA)
+73574226-ba00-4015-b764-22b53fa7bd00,Web Components
+fb07bc86-4e44-4791-babc-a14719631aa4,Cross-Browser Compatibility
+dd1856f5-22cf-4ec5-a3e7-c4f21cdf3d61,Internationalization (i18n)
+574bc780-766a-495d-9824-7225cb7be3a6,Game Development
+d29f2e4a-d6cc-4f2e-be58-ca966512ffea,Programming Languages
+05a69077-133b-4e2d-aa19-f2843add99fb,C++
+9d264441-e474-424a-84bc-24ac750a62a0,C#
+c257af16-17cd-4efc-a5a4-7416b5f85204,Java
+fe43caea-4c03-4160-9a5c-8418e5848fa2,Python
+b2e8dec9-cd61-4cb4-be83-7a505a241f21,JavaScript
+236457c8-37c0-408f-8dd9-5cf63cd8f547,Lua
+442d32b4-819c-4b68-9540-9c94075936c0,GDScript
+d2d0cf7e-cd93-4d7e-91fc-ee8e5b71ef20,Game Engines & Frameworks
+f497f112-5f98-40d4-90eb-f92a5f729d19,Unity
+3c74fe83-5d38-498f-bc37-5d1e1d8c5080,Unreal Engine
+c4d25ae7-e6fd-46c1-a563-e824b7e27004,Godot
+d39b6484-594c-434c-9ec9-399c2e900524,CryEngine
+c98d092a-bd9f-487e-a271-bb657825e686,GameMaker Studio
+695e75d6-9e42-4b74-910c-8d4a0b96518e,Construct
+4973e789-a946-4491-a832-47117415cfca,Scripting & Tools
+d21ff157-f58d-4961-8235-26a455125272,Scripting Languages
+3ca15120-b65a-45aa-be4c-7ff63efc0ec8,Lua
+8799e705-6bf6-4e28-a46d-929586351985,Python
+f0795178-0c52-498e-89cf-6e0f09529402,C# (for Unity scripting)
+977e7f4d-d79b-49fe-adef-539d83e79597,Blueprint (Unreal Engine visual scripting)
+b74096f0-e2dc-4f7b-ba6d-9d0df2e0a3be,Integrated Development Environments (IDEs)
+be97e988-a261-4217-a0c3-f2c920198def,Visual Studio
+05dcd80b-3183-4eeb-8dea-d423ccb8b63d,Rider
+150be581-948d-408b-87fa-8c3dea570677,MonoDevelop
+b5577d76-a4ed-4318-bda0-5ca3f58d108b,Game Design
+e703aede-c32a-47fd-a72b-b18e0967d720,Concepts
+949377c4-f027-4072-ba92-9eb236805caf,Level Design
+02c5878d-0086-4b63-885b-393303ae1ae6,Mechanics Design
+75db88a4-74b3-4511-b58f-c86a4209263b,Storytelling
+81c37306-8a95-4c0a-877b-fc4a165e8f3f,Character Design
+2dcac2d6-d0b7-48f7-ac81-f78f1787726e,Narrative Design
+1c8173fa-9724-417d-80e2-948e31a6c2b4,Tools
+1a0966c5-3ebd-4a95-99d1-7b914ac14585,Trello
+0e7c10ac-3976-4d3e-9b1f-cc330d406b79,JIRA
+42543f64-e146-4334-aaed-fcb3b1d4d690,Game Design Documents (GDD)
+9dc4b96b-dd9f-4657-a8e8-b951e23f05dc,Art & Animation
+22cc3708-52ef-4eda-9f2e-318e1bd07bf7,2D Art
+e1171a79-6a76-4c13-9e94-5ff056e9e9da,Adobe Photoshop
+26d8cfb7-86e4-4639-866a-04b4175ca430,Adobe Illustrator
+3b9b7273-9665-437d-8c48-cf6423f8a40b,GIMP
+af19dd64-cf01-4e19-9370-9406f09d2ca4,Affinity Designer
+8e225d51-6e07-4e11-b0cf-b7580934084e,3D Modeling & Animation
+5bdee4d8-4f60-4f95-a00d-34d1d24aa181,Blender
+7059b2c7-fdf8-4cd4-b79a-939eb7c21249,Autodesk Maya
+178df564-ca84-48ab-98c1-6f091ee523ab,3ds Max
+97c7c665-a843-4d21-bbd6-dc8ff9ad3b99,ZBrush
+128d1bc8-fafe-428e-82fb-43896ea7a7d2,Animation
+addb18f0-572b-4a3e-af32-b72903efb2ac,Spine
+f7fb7bb3-f43a-4de8-82f4-dcd525dafc54,Adobe After Effects
+30e94f2c-1649-47df-a21d-6d006dcb8d84,Sound & Music
+843ef1de-aec5-4c8a-9e9c-1679a106309b,Audio Tools
+e1accb9b-22d0-43f9-987e-5539b4fee711,FMOD
+fe5614a8-b076-467c-b38a-4f1cb916cdbe,Wwise
+05eec46e-2f44-414f-aa94-ccb80702d200,Audacity
+f0cf25cb-cef1-495f-b44b-74c5fd90daba,Adobe Audition
+eeb87622-633b-4c60-84e1-afa040560248,Music Composition
+46e09b75-987f-4280-9e1f-be4b89d2e44a,Logic Pro
+9d439f02-20db-4ee2-9011-9ddbf1d917b6,Ableton Live
+5a1f0dac-0130-409c-820f-844f7c6d7e1d,FL Studio
+fc6350fa-cc05-4515-b8c5-c628089ead3a,Networking & Multiplayer
+95b566ca-a8a4-43ca-b20b-2cd6177b5e26,Networking Concepts
+528eb134-dd4c-4185-9516-c9ffbc06e383,Client-Server Architecture
+9fb7d010-b327-4f69-9ea6-814fbc5a5152,Peer-to-Peer Networking
+d0c690bf-2c60-4aac-a4aa-e880bda385ed,Real-time Networking
+ffbdb3f3-7312-45af-829d-43375522e23c,Latency Optimization
+d1dde43f-a15e-4c10-9e65-f34f2c3f1bc3,Middleware
+c9da9fc6-0e73-4805-b761-3b034d798bec,Photon Engine
+3a387948-4a9f-4d4b-be44-8b38298c0700,Mirror (Unity)
+154538c1-12a6-4d08-b91f-73bc448e77c1,UNet (historical)
+dbeb34a2-9ab3-4c75-81b4-74a898ba094c,Platforms & Distribution
+b36c2f6c-723a-4562-9e1f-aa157bf3cb5b,PC
+1b686ee5-96ee-4db1-8f44-6c1f078fc81c,Console
+2c31a165-5665-4572-b9cd-4aca87b75efb,PlayStation
+c220390f-c0ba-4994-bf4f-7b1732adaf51,Xbox
+2ee6a551-d08d-4412-bc34-07dbb1c649c2,Nintendo Switch
+0116200a-64b2-4fce-be4d-914544b99d2d,Mobile
+1a8ffc07-57fd-420f-bc8e-b2a07fccad55,iOS
+92783f90-d525-4d26-90af-4378ea424450,Android
+e997bf35-3c3d-41d1-9a36-e2fbd00c900a,Performance & Optimization
+85c6e839-871f-49c4-bdc8-97271cacf4f4,Techniques
+377e217b-c85d-4338-86cc-5b8ac09ab345,Profiling
+c58dccff-09d9-4362-a8ba-f31849005a38,Memory Management
+7fc9d112-c498-4dd1-883a-7508610e2dbf,Rendering Optimization
+de2cb3c4-94f9-477e-92a1-0eb69818493f,Physics Optimization
+1b7f9170-0b66-4a1e-9bcf-267ab2af7233,Tools
+02da4b75-43bc-43d8-ba8c-7cd2fbe4ad38,Unity Profiler
+0b3786b0-bfae-4d24-9644-b7277b1e84d2,Unreal Insights
+c8db451e-64d8-4e59-a1f8-7ebf53be978f,RenderDoc
+a771930e-41b9-4677-b52b-e35dead47059,Virtual Reality (VR) & Augmented Reality (AR)
+a53bfa21-bd22-4f4f-8d9b-da808868dcaf,Platforms
+7bb990c6-7b37-42cf-b457-8e1a3dfb330c,Oculus
+95ca4022-31bf-45b1-91a6-96ed9537895e,HTC Vive
+1735dae0-9bcc-46bb-89a4-bf09331efb8e,ARKit
+2f447951-4591-4912-a91d-38237be0055d,ARCore
+4e090f8a-210e-4045-8312-f542c3dc9668,Tools
+f1693444-4a9e-49fd-989f-680f1834e9d2,Unity XR
+b8ecca4d-0ec0-46aa-aaf7-937d0fa9bee0,Unreal AR/VR Tools
+449bd920-c305-4cb5-b152-663cf1eb9401,Testing & QA
+26f808d7-4416-40e9-9f56-e2418473f8e4,Types
+5b00c568-094a-4733-b90c-9e783dc2221b,Playtesting
+b503e7f6-0680-4937-8c81-3879b8d88807,Automated Testing
+9056697e-05a8-45bb-ae74-9d7bf4a40eca,Bug Tracking
+cc89cb06-e03a-4b30-82fe-77a026523ecd,Tools
+63c2abec-fb16-480c-a50d-9b7c356cd6c7,JIRA
+5a8c12eb-ab98-471b-afe7-62d6afec4b95,Bugzilla
+eee02b0c-7357-4992-b13f-e779d84b114a,Mantis
+7c7637d2-11a9-444c-9cd0-3b062114aada,Version Control & Collaboration
+a8d554f7-51cf-47c4-8e50-4c879a6a156b,Tools
+becc446a-d29c-48d4-9da5-21d5c934bf76,Git
+90d27167-20b3-4440-80bd-7698f4382939,GitHub
+710a2a95-d088-4061-9ccb-18219b8f59f4,GitLab
+5fd5bd55-5cdc-40ae-9f0e-413232626cd4,Perforce
+74988ee2-7a36-4b25-b07d-9af18cfa9459,Mobile Development
+790261b0-bb73-41c7-9057-7259218966c0,Platforms
+4e9a3bbb-1c24-49c5-85ae-95909c78c69a,Android
+dfba90ef-5ff3-4fa3-a332-9d0c9f97a70f,Languages
+2e311d1e-1873-4ca5-8fab-f528dea69674,Java
+e85012cd-7bf7-429e-8fe1-dd2f82535675,Kotlin
+7d1599d8-5f6a-41c4-90b1-89ffe5c2f25c,Tools/SDKs
+e56e9ba2-eda1-48a7-be17-ca922a19038e,Android SDK
+3cc4155f-d45b-495c-b175-25da84ee9134,Android Studio
+3ae565cd-8591-4949-b32e-89fb528dcaad,iOS
+6e15fb9d-6737-484d-a353-fc425f813b06,Languages
+60528311-0ae3-4f78-8839-b68ce4efece0,Swift
+9b9e2177-dac6-43c8-a175-b182add18886,Objective-C
+28e41313-6aba-4e05-9657-59b2d410315c,Tools/SDKs
+f0e994f5-3874-4fd7-90a3-7deb8eaf7c2b,iOS SDK
+d7a7caa8-3feb-4401-8f77-e22309ee8d63,Xcode
+f11c13d1-1f84-408e-ab59-07ea1326a749,Cross-Platform Development
+375e9398-01cb-443d-bdc4-3e56c13a7c9d,Frameworks/Tools
+4bd09b08-a570-4dbd-9082-85597b11f3f7,React Native
+55b46ae6-df77-49d2-b82c-d20832fb0c02,Flutter
+7ab34367-671b-432b-b008-46d916a1981d,Xamarin
+1cad281b-5c02-458a-954d-559dbe7ae14b,Ionic
+1012af1a-57b9-43be-8222-2bfe7a914b4e,Cordova
+c00353d5-614b-45af-8214-b4ddfe05e0ad,Hybrid Mobile Apps
+5d3730b6-dade-40e5-8aae-3955b7e5c22a,Technologies
+58cacd20-934e-4f59-974b-87ece435c843,HTML
+f9c10390-9e97-40d4-8817-5e608a7b1843,CSS
+f287faa9-f12b-46fb-b203-d9c17ec7f728,JavaScript
+144fa955-ea06-414f-80c9-6ac3d0a1b443,Frameworks
+3d7391df-a014-47c3-befd-47a1fe916d12,Ionic
+72ee07f0-f947-45e0-84bf-30daf3fe7b93,PhoneGap/Cordova
+ce12e9ad-5582-47a4-9bc5-b4beb6c351fd,Game Development (Mobile)
+397a78a8-417d-41dd-9e2f-273f8ce61118,Engines
+d5b8bc25-f734-4102-aa84-184b2b364ff1,Unity
+aaf9d6fc-1e10-40e1-a6dd-eacba574a4fc,Unreal Engine
+66c7b0ae-96b9-4362-938d-56ba9548a256,Cocos2d-x
+3106bf6c-ee94-48ad-8838-3d58b2461d36,Languages
+77a1560a-2441-42c0-8c29-6a6f54578b19,C#
+e87b9fe5-0397-4cba-8180-7e5aa9ac4efd,C++
+77893e66-fda3-45c2-9526-1f77a4457145,Tools & Testing
+6c200e26-8777-4fb5-a7e0-cafcd1a8194a,Debugging Tools
+b1e25570-1cac-4511-b846-cf3dbc9fb9f8,Android Debug Bridge (ADB)
+dde1f8f5-31fe-42c8-854f-18cab7c6f980,Xcode Instruments
+8da99466-7c3f-4112-ba33-a4b3fda96e45,Emulators/Simulators
+e2d17e7b-16fd-478b-8185-1055c883eb63,Android Emulator
+87bbde47-b4b1-4343-8e17-4d7df7adfa06,iOS Simulator
+e201dbce-c105-4d13-b00b-06ed100766d8,Testing Frameworks
+6f81b763-1152-4cba-a9e6-fbef31665b7e,Appium
+eb5f3192-edd6-4c20-9908-dea887d8fddc,Espresso
+8a56b4d8-67f2-4dee-821b-1cdc7b7b5a7c,XCTest
+540c52cb-05c5-45fa-80e1-412770631aeb,UI/UX & Design
+908306c8-5192-431d-8bbd-ee3af3d03991,Practices
+dd5ab7e8-c076-4f52-a062-9b90f681354d,Responsive Design
+41a2dccb-2d03-471a-8ec8-dc8d94f899d9,Mobile-First Design
+0f0ab755-1ec2-4b22-94ac-2fde99a4983a,Material Design (Android)
+296e7e37-40e3-46bd-ab48-f7cce9bd7d80,Human Interface Guidelines (iOS)
+6ca0ae35-0655-4df4-927f-0a8aaf367ab2,Design Tools
+b37916f5-36f2-479f-b7d6-671502698831,Figma
+ae214a59-a9cc-4ac2-b4e7-d38ec4096d5f,Sketch
+00f83104-e5a8-45e6-adaf-20f2c6fddbee,Adobe XD
+dadf63aa-b561-4f02-a504-c642b14740cd,Performance & Optimization
+b2f239c9-75bf-4738-a01f-c1c0021056e7,Practices
+94c882a0-88fc-4cde-8907-ca3782500e84,Memory Management
+c81bd265-f21f-416f-b31a-62bd4ec0e169,Battery Optimization
+58f1b535-651a-43c9-b333-b463a1e08496,Network Optimization
+8a2f0e74-ed52-4e60-ac74-a37c52d74dfa,Tools
+74b418b7-4798-4a8a-9fcb-79290d9c3418,Firebase Performance Monitoring
+7c4edc0b-9792-4150-b15d-4a4a7b4aaf55,Instruments (Xcode)
+4b00465e-efed-4da2-8aa1-8bf0867c4f63,Deployment & Distribution
+08af4318-c061-4fc9-bc86-5293f80a135f,App Stores
+5cccf078-bb62-4f86-b70e-7b6cc12e9e4c,Google Play Store
+139efee7-a545-41d3-bc39-a943f22781f6,Apple App Store
+dcb7d58b-cae8-43c8-aacd-ebded8200174,Tools
+23f39361-41cf-4fdd-9465-48b5f6b0c6fb,Fastlane
+a8c5b6dd-6878-4f1f-9874-896fca97c118,TestFlight
+5af464b3-2b0a-4281-a63c-b7cfa656eb85,Crashlytics
+4d141805-121e-417b-a4bc-6816dba3551b,Version Control & CI/CD
+00bbdf8f-04ce-4956-977b-6432842a720e,Version Control
+e5be3df0-ebbb-4c25-b6f8-b1007e5c6f34,Git
+f1eb9b89-b20f-4a96-82a1-3c88faedcbf0,GitHub
+5fecf587-a431-43ec-b50a-a4a4cb0a686f,GitLab
+b9b48f2b-b01f-420f-8ab4-6085c01f8248,CI/CD Tools
+5dc0fc5e-d113-4a90-b967-eeec88916463,Bitrise
+e2a4d1cb-82a2-4a9b-a2f2-7683c0b4a007,CircleCI
+aedc385a-e812-48ba-b4a0-5987783a5780,Backend Development
+64d99e9c-1d6e-4956-8a4f-ed6d3bd3d7f5,Programming Languages
+5f00f98f-64d7-4b94-a77d-d40a05cd5672,Java
+e7f006d0-9f2f-41a7-b490-039a8c9bc121,Python
+378b019f-ced0-4062-b446-deab3dfd5705,C#
+82b31608-47dc-4d0b-8a5e-c8e8aa72cd04,JavaScript (Node.js)
+9d51c3ca-8116-44b7-825e-53d185a0ce54,Ruby
+4a4d3edc-65d7-404a-837d-81199170de3a,PHP
+eff14172-e19e-441f-9365-6ea4f62bc303,Go
+4fcd9cf1-0f30-46b7-9ad4-58f116904c92,Scala
+ec42bfd9-9db4-4423-a36f-e981f0e50343,Kotlin
+09ac1c13-8c11-44c0-8f02-a63546869d78,C++
+76d9303b-4572-4dc1-b1e1-d20fade06fcb,Frameworks & Libraries
+22b5cf86-6013-4cbf-a3bc-fcb482ecbe8d,Node.js Ecosystem
+8a482857-a04a-4585-b9af-d62711f65eea,Express
+0631fff2-1227-4201-b93b-1c7d16b5be97,Koa
+a7d8a8bd-362b-4c47-adc9-1b441c7c82ce,Hapi
+b3bb0164-3f63-4da9-9721-e2ef1c1bef5a,Python
+853126b8-83d6-48f2-8fbd-1500a82a528c,Django
+05266920-9548-4300-938b-a4b628cf5192,Flask
+6231d72b-54c9-460a-a3e4-d93abab7401d,FastAPI
+8654f50f-aa80-4caf-b417-6555f4ed45d3,Java
+da8f57c1-085c-4288-b9e9-b1210bc98c1f,Spring
+046fc608-9ddc-4410-991e-8fc373f997a0,Spring Boot
+ec33d17a-c9e6-4fbd-b69f-3a8fbe138707,Jakarta EE
+4792a2e3-a28a-4483-b79a-5e36aa4b0707,C#
+c7f86c07-fefc-46e4-ab5c-01bcde719bf5,ASP.NET
+7326a93f-ac17-44b4-8618-a91add87e046,ASP.NET Core
+b73deb91-f6fd-4729-bb36-c4ebdc56cc73,Ruby
+71b4ad78-657f-4916-8bce-22da727c64bd,Ruby on Rails
+56dac8ef-3a98-4a2d-989c-52a010141632,Sinatra
+37d10b7b-decc-4734-98f9-47799c5e659b,PHP
+950acd40-5bfc-4a88-abf5-47a6564890dc,Laravel
+8e3a8ddf-bb1c-4088-99b3-c67f99d2fd68,Symfony
+e7ac1041-b330-47ec-a5c8-6783533231d7,CodeIgniter
+30949d1c-1bd5-4c9a-8b42-114aa161cf4f,Others
+f5449cf3-8370-4342-a5e7-114971dadc7c,Play Framework (Scala/Java)
+efc19813-c038-4d7e-b407-ff9e0e596194,Micronaut (Java/Groovy/Kotlin)
+6f4a377b-9a93-447f-9ba5-53eed5fc5805,API Design & Communication
+f1d71c79-b443-4ee9-9eff-cece0762a929,RESTful API Design
+4e3e36e0-3213-4d12-ae6d-a69856ac9369,GraphQL
+edeb4b4d-940b-4c93-b9e3-e9608614a0ab,gRPC
+e7e881c7-c543-406c-90c5-e17e3e8db9c9,WebSocket Integration
+3ec62a58-23a5-48d7-82a9-92893eee90e9,Database Integration & ORM
+76b1585c-20d9-44cf-802d-cacaa98625e9,SQL Databases
+c634cb54-3679-4800-86e3-cc761401417f,Examples
+236086eb-14d3-4bed-91ae-7c8f2c45791b,MySQL
+7e4a0a98-618c-4077-a8e6-dde73383a632,PostgreSQL
+b93d5a02-0a92-4a62-b65f-87352232fb42,Oracle
+4cbc6c5d-9fda-402e-a8f7-8feda14e0254,Microsoft SQL Server
+18bf0f71-e779-49a5-a589-a3e0eb2e9b7e,Integration Tools
+4df9ae07-7ae1-4f6e-81ab-d5ea1ee711eb,JDBC
+c328db27-5823-47e8-8a31-817c1d1779bc,Hibernate
+c8827f75-1950-4677-b78f-b08ff81d6f30,Entity Framework
+4dcf9dae-6135-4b27-9582-225f64bb8ae3,SQLAlchemy
+64100d3d-877a-435a-85a6-29d71001382e,NoSQL Databases
+7bad496c-eda1-4503-b24f-dacadfce6392,Examples
+9957f5a6-bb45-4146-87f7-37c5eb92bbbc,MongoDB
+25f76eed-251f-44ed-b0be-ba80916e7c2e,Cassandra
+36a7c0d0-44b6-430f-8fa1-ec5a87b6cf1b,CouchDB
+d6ac5e8b-ecba-40f7-b11e-e51db0d3af49,Redis (as a datastore)
+dde1b7f2-f88c-4f1f-a8d4-4373b42fd95b,Integration Tools
+abf634d3-4b37-40fa-b8e0-c9ca5ff866ac,Mongoose (for Node.js)
+116ed40e-7d20-4b63-ae41-4585a5cbe9cd,Doctrine (PHP)
+0caf217c-1276-4af9-8f86-51c4b09d696b,Data Modeling & Schema Design
+d581b666-9a30-461d-ac38-cdd343564b35,Architectural Patterns
+f0699fd5-cbca-4ade-b189-1552a11f69cb,Monolithic Architecture
+bafc8434-f23a-45e1-81d2-9a9e9d29b9fa,Microservices Architecture
+5923a03c-c9bf-453d-9dc3-6c78eb2667fc,Serverless Architecture
+1a98e63b-da27-47d2-862b-0ade1a200d42,Event-Driven Architecture
+06577d8d-5011-450a-bee6-2b79e100bc31,Service-Oriented Architecture (SOA)
+462b0ec5-74f2-4fa5-8d9f-084270b58a35,Communication & Messaging
+a6ac234a-d312-491f-b576-707ae82f5df2,Message Brokers
+07ea090d-1af8-4ce1-83e6-0005fcb993d8,RabbitMQ
+6944be6a-c666-4142-8b78-05714a6efbab,Apache Kafka
+2d3e199a-2d61-4391-9326-5d8d4f728c14,ActiveMQ
+5570417c-4e82-47bc-aa85-3d9a8f612a32,Asynchronous Programming
+7f914c79-2792-4c27-b873-9644dedc43c6,Caching & Performance Optimization
+3c472201-1a7f-460c-977f-6ce8666a0d84,Caching Solutions
+f2438e5d-f292-4d9f-bccd-0d41e10d387f,Redis
+442200ae-6171-43bb-95b7-b0486d74e02c,Memcached
+93218c79-85ab-4862-a400-e3d9ca0b869b,Load Balancing
+c6a28adc-0d1f-402b-9ff7-b25a7e33c098,Database Optimization & Query Tuning
+cd0d5417-6018-4849-b0b6-0db831433754,Testing & Quality Assurance
+35a9a277-d853-4d54-a532-4a705fc5d2ce,Unit Testing
+1a36718a-d09a-4c23-a558-20ddde12815e,Java
+f1cb518d-964f-4f5b-ad90-aa0de45cb9de,Python
+7efd90a6-0019-45bb-887a-fbf1a7fe97fa,C#
+3d1c6e6b-c2f3-4f7d-b05a-1cc5ebbfbd13,Node.js
+a1da260c-d076-4b8e-be82-477f0990f9ce,Integration Testing
+4c55d7b4-d310-4e77-baaf-d8bf066a7119,End-to-End Testing
+39a9fbb8-c572-4e80-8736-7c06b18aa5ed,Performance & Stress Testing
+ae4accaa-91b4-47fb-809c-813ee6065aec,Security & Authentication
+460cf37d-27cc-4b6b-815e-ef84df8d9865,Authentication & Authorization
+214504d3-2b24-4464-aa59-702e6456f144,OAuth
+dc75bcf2-fd36-43d4-a166-5be239b7bd3e,JWT
+11c74988-1794-48ec-a124-01cc8e966ca7,SAML
+5020d9a2-8b37-4089-908a-e3a5cde70015,Data Encryption & SSL/TLS
+45eebc58-a6d9-4c1d-843a-3d498c60bc92,Secure Coding Practices
+400b6910-8b1a-4f60-8cad-c5d1e4ac781e,Knowledge of OWASP Top 10
+c13ced69-a89f-4135-9322-de4d905e72b6,Deployment & DevOps Integration
+a9259ebc-42cf-4465-a9ee-b5444e5d81bd,Containerization
+4082f835-e711-440b-9555-d3daa02c9e71,Docker
+fdbd552e-37e3-4a17-b349-ed8f9a13569f,Kubernetes
+76d9d768-08ff-4568-a42d-7128346bcab1,CI/CD Pipelines
+8be377dd-a364-4db8-aa52-1bc7f8b304f3,Jenkins
+4a628c43-88d6-494c-b02b-f33ad29ea0da,GitLab CI/CD
+fb966bcf-0436-45ab-93c4-31889c44c803,GitHub Actions
+060c54c6-bb49-4f26-bec2-c4674a1eb288,Automated Testing & Deployment Tools
+4e3eea97-e39e-4bfb-9bd7-76815aaafd34,Cloud Platforms
+44eb03f8-38c4-4e0e-af58-980dbc9ffa5f,"AWS (e.g., Elastic Beanstalk, Lambda)"
+aa905c97-2157-4270-b6c7-0f6f6324d1eb,"Microsoft Azure (e.g., App Services)"
+8a47a893-4c47-44e5-a0a5-65a015f37f7e,Google Cloud Platform
+8f7f7ad5-42a8-4ef4-b39b-238126efc0a0,Monitoring & Logging
+7eebf1fc-2ac3-42d2-899c-856ae7e9c73b,Application Performance Monitoring (APM)
+b50cdaeb-55c6-4ff9-a238-ae43dd8721d4,New Relic
+6438d09b-a5ac-4455-b460-eff220dddf0f,Datadog
+bebaae69-90a0-481c-bb74-26e2d13a3f8a,Prometheus
+00ccda50-e2af-4660-b340-91d4c91ccb20,Logging Frameworks
+3c2cd6cd-677b-4450-9eb5-c3edeffac7af,Log4j (Java)
+5a5d948b-ab5d-49d2-a583-731217c3664d,Winston (Node.js)
+d6eaf701-f117-484f-a0e0-5ffdfeb15ff6,Serilog (.NET)
+69031511-1d0c-4dfe-8149-5e9b63420a7c,Error Tracking & Analysis
+d0b8b875-22f2-4ca1-ba4c-c4aebc2c8061,Additional Skills
+46fc1452-1b36-463a-92ea-f6dbe4804902,Concurrency & Multithreading
+c99ca3a8-47fa-4573-8369-9c711a03a3d2,Asynchronous & Parallel Programming
+650dee6b-49cd-4dc7-85eb-eff861d0d00b,API Documentation (Swagger/OpenAPI)
+c5d1ba09-53df-46cd-b38b-ff823c254733,"Version Control (Git, GitHub, GitLab)"
+63cb0398-7794-48a5-9fa6-524713b4b9f2,Design Patterns & Best Practices
+e57f0b00-0fa4-4c58-831a-61cec2985680,IT Management & Project Management
+8115117f-d8c8-4c73-a956-5ff8ce66424e,IT Service Management
+0cbafe69-d631-45f5-8d5c-ad9c80a9320a,Frameworks
+414f5a14-44dc-4316-8a11-82986c3db51c,ITIL
+787834d6-22b5-4058-9154-e771cc7be9b1,COBIT
+9f98fb67-61e5-483d-8bd3-8f922c7cbbd8,ISO/IEC 20000
+93fd4ce2-14b5-4602-b670-eeeadcd2eba8,Certifications
+0ed30f14-3c7f-4ea2-bf20-f2ff08319a98,ITIL Foundation
+345396de-6911-4ac4-a493-5c35a23ea36a,ITIL Practitioner
+3d1746f2-7353-49be-8852-1b26c914a643,ITIL Expert
+60e6cb9a-2102-47ea-8df3-ed529a44b6d6,ISO/IEC 20000 Certification
+3a621c80-a59e-4e7a-85ce-1d355ee3879a,Tools
+f4551617-c55f-48d6-b715-bdee502dbe1c,Service Desk
+cb1f5514-0c31-444f-a904-fa8cfb8b3811,ServiceNow
+ac3dfcd9-a866-49f3-ae7b-aa5af0bcee66,BMC Remedy
+1dee4362-fec0-4eb6-ab40-c582846f71b0,Jira Service Desk
+911d8d57-f336-4c52-ad09-e91e4353e8d7,Freshservice
+7720cc4c-3b78-4598-bd2b-90668396626d,Monitoring & Reporting
+a86b1817-8410-4e33-966a-57399c291a40,Nagios
+91c7b952-bf34-4e0b-b8b6-885d9778250d,Zabbix
+b7bc8415-01b5-4786-9d3c-00d8c56a9f80,SolarWinds
+6da1c47c-1188-4e93-81ff-17f57687387a,Configuration Management
+bd31988a-2961-49cb-a544-ec882f8a1775,CMDB Tools
+d8398c59-d2e8-4014-b34c-4fad8704ac4e,Discovery Tools
+d3a02126-4b92-4d2c-854a-9a5ecde94b97,Processes & Practices
+db535199-599b-4065-8fe9-0453b6339e34,Incident Management
+8dbaf51f-6bb8-4794-adf6-d581397094d7,Problem Management
+035e8d78-0651-49df-a913-fa3a500383b0,Change Management
+1c1ac345-30a7-44b2-8f55-ec1ed49e5165,Release Management
+828e6936-7754-4f9e-89bc-b9774c69c79f,Configuration Management
+35fcabd9-6629-42ff-b72e-299386c30f07,Service Level Management
+3a2a45c9-5575-44ce-ab1d-7cb57c8419b5,Capacity Management
+a3c3bcdc-9dce-44e6-9795-29cd51e12b66,Availability Management
+8cbb244d-c0f2-40ca-8a65-b65e4c27504c,IT Financial Management
+3eea4e6b-bb4d-4ae8-9ab9-69288461c66c,Continual Service Improvement
+e4dddd5d-2b64-4089-b520-c74b82b0d965,Knowledge Management
+b89837bb-d2e4-407e-8997-1db70aea84bd,DevOps
+604acd31-b89f-4c5d-9be7-dc973e112b18,Practices
+4a07cd1b-641b-4fec-bea8-0ff27266ad0a,Continuous Integration (CI)
+4800a3f0-e8a5-47af-b626-9ea50d32e492,Continuous Delivery/Deployment (CD)
+89ec880c-5fab-4847-9463-7ac67400572f,Infrastructure as Code (IaC)
+7f752698-8e67-4ec5-b98a-a6885bf1738a,Automated Testing
+0da8a4c1-6fae-4fc6-88fe-abb8206ccbbb,Monitoring & Logging
+2b453e0f-9350-4b34-9d76-2948f03c2352,Configuration Management
+a3c5ed89-6d58-47c8-be82-abed25d5e910,Microservices Architecture
+f99d2b4b-dc8a-4504-9015-5f7b3d241410,Collaboration & Communication
+31e5d03b-e8b2-4121-963a-9b7a2c685f3d,Tools
+0933986b-5027-47e6-b068-de95ec1c0efb,CI/CD
+9ea883c2-d9ad-4ce2-badb-a454400d5cd4,Jenkins
+5841df95-a413-46ad-991f-a329a8a9e930,GitLab CI/CD
+8ddead4a-1023-4591-8a0d-ecee7780cbcf,GitHub Actions
+efac8d20-de50-4497-aace-0d1f80e47a87,CircleCI
+e7859ed8-c5ac-4aee-aecd-6af7eb394390,Travis CI
+a5009b0b-f4a5-46e0-a6a4-757da5e5a038,Containerization & Orchestration
+30463e95-873e-4ae6-b31c-09d7e840fdcb,Docker
+a9560ef2-381a-413f-b4e7-f447892885b6,Kubernetes
+4f063c62-eabf-4fb9-b36e-243ade9c6fb2,Docker Swarm
+1ffb8af1-e48f-4ce1-ad19-18ac37928fc9,OpenShift
+f87aae97-d3ed-4983-81f3-57762605b001,Configuration Management
+aeca2fa3-f540-4e06-8eb1-eb98a130a747,Ansible
+cfcd3f3e-9d4c-47cb-a12d-15333df9586f,Puppet
+56aa9dba-ab1e-468f-8ee9-0a359fb8e079,Chef
+67448f9c-a657-4bfc-a714-a3b2a1bceb71,SaltStack
+f861c141-8b06-45b7-a3e3-c58dd64a81bf,Infrastructure as Code
+b59f8977-3feb-400e-a6ab-6c88886e2948,Terraform
+2701e509-a8b4-4344-a216-88d27bea0c35,AWS CloudFormation
+7377cbba-312c-4045-8377-20ce26954890,Pulumi
+1dac9dc7-fb47-4150-b910-941f9d9b2c89,Monitoring & Logging
+9c9e18a8-5d76-4225-a2b7-90673872a73b,Prometheus
+7470b43f-3870-43f0-827f-b8c5ecbcf591,Grafana
+e8601bff-5396-4982-98b1-cc4d7c4508cc,"ELK Stack (Elasticsearch, Logstash, Kibana)"
+9222031a-1ef2-4b97-b403-6d7f3784ee4d,Datadog
+45ba2c79-a25d-49e3-a8d6-98d30294596a,New Relic
+51a48141-2bc7-4148-b433-87dc64585f36,Version Control
+ebf1b076-13a6-4b4f-8836-d2537b8d1838,Git
+e64ea9f2-f917-4f73-834c-a49129509ed8,GitHub
+7d8b1f7d-a450-4f90-81d7-3aecafd6675b,GitLab
+6e158393-739a-4c78-84db-7a48407a4d90,Bitbucket
+2d7d03f1-ce03-4d84-92b8-f320de50e0c9,Collaboration & Communication
+96c1d628-1df9-4150-8847-29f2d3df341f,Slack
+49dc0233-997a-4b45-a86c-60f64c34c5e6,Microsoft Teams
+fb4987d1-9180-4a1c-9106-03bede49ae6d,Zoom
+031252c8-b106-4d83-8771-ff2ea5087b30,Certifications
+67b72058-ca66-4398-818d-e0a454096087,AWS Certified DevOps Engineer – Professional
+d5dd0c28-6361-4432-ace8-eb5a41eb4b36,Azure DevOps Engineer Expert
+5af11aab-deb5-4d18-8173-6318886bee5b,Google Cloud Professional DevOps Engineer
+e5f1a41e-1997-4216-9b97-e02784bf99ca,Certified Kubernetes Administrator (CKA)
+3538feeb-4070-42cb-bed8-0e954b054a34,Concepts
+7520dbf0-9d58-494c-b4cd-257588a421ab,Microservices
+49f5244a-c6af-4eba-a92b-06c76d707e2c,Serverless Architectures
+20381cea-1712-4bdb-926f-5ec5e4f48038,Blue/Green Deployments
+ced775be-2dc5-4ec6-bc4d-9feb59249622,Canary Releases
+f14a13bb-f441-4be9-be61-6c3636eb70b6,Immutable Infrastructure
+08c91599-ec61-425c-9fd9-72a5fe7d366e,IT Project Management
+31039893-d9f4-4245-a9ab-041d38b3386b,Methodologies
+f7ce7dcb-1320-4dea-85d3-768e46e8c928,Traditional
+530ceba0-2188-4a62-88cf-34dc10d25a82,Waterfall
+c2d73af1-042a-4575-9bb7-3fa704ee056e,Critical Path Method (CPM)
+a361128c-cbd9-409c-bc13-f8a87b29ad2a,Critical Chain Project Management (CCPM)
+8f4c0546-793d-46a1-988b-13b9c7f66412,Agile
+8ac97d7d-df3b-4c43-bb84-07d3e3a77949,Scrum
+bc9e6aa6-84b5-4a69-8cdd-b23af826cfca,Kanban
+d27dd656-33c9-4c30-8196-7e37268831e2,Lean
+685aa14c-c659-432d-98db-c3af73607766,Extreme Programming (XP)
+769a2e5a-562c-4361-9ca9-84aae9730ce1,Hybrid
+e899d4c3-980f-4664-95d8-fd36a32b1762,Agile-Waterfall Hybrid
+70b9415e-a1ef-4272-97b2-04336ec5f815,Others
+b5b11d06-9e93-4f30-b1f8-c0685b2bf3d4,PRINCE2
+2d11fb15-8da2-42f6-8757-b15ed64bec6c,PMI Framework
+a15e94b8-a5e5-4039-ba49-931b1377cc49,Certifications
+19c012d4-5bb2-441e-81ef-fe7b5e7e85e2,Project Management Professional (PMP)
+e5983fc1-de0a-4d6f-89cc-c2838b7666bc,Certified Associate in Project Management (CAPM)
+64dfa82b-2ffb-4df6-b892-a4b5f14144ff,PRINCE2 Practitioner
+7abc49a7-1ce9-46f1-bae1-d6242864367f,Agile Certified Practitioner (PMI-ACP)
+ba4316ed-cc70-476c-ba42-3deae8356c74,Certified Scrum Master (CSM)
+3f707e80-b68f-4a5e-9a98-0e458047c3bd,Tools
+8d2ddbf3-fc2d-4ca1-a98b-bc700152ea25,Project Scheduling & Planning
+df8cdaf6-4e3c-41a4-9b21-e078f5c5b949,Microsoft Project
+e88e50ea-a81f-44ed-8ff4-7e38e0a89aae,Primavera P6
+3df0e805-5fab-45fe-9274-1f450389ddc5,Smartsheet
+e221664d-f06b-4661-b2ee-931f5066db19,Collaboration & Task Management
+a0a5e953-98bb-4913-9b9d-fe06526fe82e,Jira
+46d816eb-3718-4dbd-a8f6-9884d309d8a3,Trello
+6f4aa57e-09f7-4775-88c5-c715d9dc9333,Asana
+2a6050cb-c618-472a-bf30-3377f0fb905e,Basecamp
+93068320-c50a-4549-974a-e55bf430d2b8,Monday.com
+54d76d51-eee6-4596-a550-b9403303f80b,Communication
+52a5b843-7219-4171-821f-1d972876bd81,Slack
+e775c267-a84c-4a37-b819-50c41a781c9f,Microsoft Teams
+a5fb7627-fe3d-4dcb-9c83-e6b190eb5800,Zoom
+9e85d1cc-94d3-4dde-93bd-605575d9027d,Documentation & Reporting
+285440b3-53de-4f2b-abb6-4754f67dd00a,Confluence
+bf57a52e-3803-45b3-bed8-43e3da736165,SharePoint
+aad7e7b5-c1ba-4dde-b29d-99a4cd2bd46e,Core Skills
+2b7d4cea-d58c-496b-a5d0-e7f74308ddbb,Planning & Scheduling
+247612ea-f2cb-40d5-a3c5-583fa22dc114,Risk Management
+af5f3c68-8763-4879-ad36-2465460093a4,Budgeting & Cost Management
+e0057175-5325-4615-935c-f631c35e7c05,Resource Management
+c0f6b114-4f10-4be5-93a3-bb6158fa37ad,Stakeholder Management
+b73711ad-3d69-46e2-938d-77b20fd518e6,Scope Management
+5573d861-35b0-4203-820c-deeebf451b2b,Quality Management
+1b476e31-3ea0-423a-bd97-5cb7e2169130,Change Management
+09c95bc5-e99f-40a4-80fb-18c77e0c31a6,Agile & Scrum
+8d737432-20de-4420-b83a-703a07bd36d7,Methodologies
+167947c5-b3bb-453b-94b6-6fcc20a77d0e,Scrum Framework
+1151a360-8419-45fa-8132-9d4003b6b424,Kanban
+efe1b4b8-c976-4f46-b578-e02d4c9a9831,Agile Principles
+cfd3b31b-3218-4a2a-b37f-17e36125a40a,Lean Software Development
+bad450f3-4c56-4d93-a9b6-353f6c24a3f3,Extreme Programming (XP)
+cf5b7934-deb4-47aa-8bb4-3ad9d933d52f,Certifications
+9ac6cc1e-ea9a-4ed8-bf01-9bfb4415e7fb,Certified Scrum Master (CSM)
+d5c92289-4ec3-47d5-a0c7-ff0da7e76175,Professional Scrum Master (PSM)
+17603d12-b8c0-4d24-b720-7d1666a6f712,PMI Agile Certified Practitioner (PMI-ACP)
+ec3ed437-c91b-42cc-b601-63a43a69197e,Certified Scrum Product Owner (CSPO)
+cd7d4474-7e9d-46b6-bdde-b27a8d6fabfb,Tools
+f030565e-30dd-4d20-8d61-f4c54b79920d,Project Management
+63758620-8619-41a8-b18e-e942e76d2c6c,Jira
+1b3ffaf7-10dd-4811-babd-ae6c264d336f,Trello
+74eeb444-3088-4347-bb41-0fdab012d314,Azure DevOps Boards
+1e7fc36a-e000-438b-af11-21ece0b41dbe,Asana
+b5e4418f-2500-47ce-b518-bd9e743896bd,Monday.com
+ca78e085-0244-4617-ab38-607cdfcee59c,Collaboration
+81607293-65c5-4d4f-8b2f-0f19c06e7b86,Slack
+3e6f7adc-e434-48f9-84ed-50982491a8eb,Microsoft Teams
+342fb150-5cc0-4575-a53f-ff96046fcc42,Zoom
+678e7945-f844-423f-af24-42661bbfa4ec,Practices
+d6286898-0474-4e14-8c37-490327314f5e,Daily Standups
+0ccb680d-116c-479a-af39-ed079e11f89e,Sprint Planning
+c42d75b1-b0c2-4dbf-b706-e3c9c6047aee,Sprint Reviews
+f9fd2f3e-6b8f-4af3-9698-a69e5cfea6ce,Sprint Retrospectives
+3f7d60e4-52b6-4ff1-a69d-7f023b6016e1,Backlog Grooming
+a34e82eb-61f9-4653-b0a6-e3135293ef11,Burndown Charts
+0a8a2269-5ca8-416e-8a20-a3fea0e834dc,User Stories
+629a94e7-518f-43ee-b28f-b91466d251f1,Story Mapping
+3e8a9526-9fdf-4592-a24b-9bb5a13b259b,Iteration Planning
+8fa05b49-1940-465d-a81a-484302ff348d,Cybersecurity
+2de8094c-1aa3-4f2e-ad2a-66a5c1e3ebef,Network Security
+b3ff0ae8-944d-41b6-98d3-6fa91b481963,Core Skills
+3e655ef3-5fb4-4165-9c15-d0663e273f7f,Firewall configuration
+ee4ef30a-1ee9-44e4-b5c3-08c0780455f2,Intrusion Detection/Prevention
+1172d3cc-1e1b-4a8c-b3b0-53e259d34674,Encryption and Secure Protocols
+02494c0c-ccb7-464a-ae65-91d53f6e5a5c,Secure Network Architecture
+39cd03de-3a3f-46b8-8aaa-e30c522b58e8,VPN configuration
+94b506cf-4143-433c-9ec6-0e89beb9a39c,Access Control & Authentication
+294c79c7-ad6c-4a0b-87c6-675916af3b8f,Network Segmentation
+9e146e68-d5f2-4996-9525-b8f31917dc65,Risk Assessment
+759abfe6-1237-474c-aa07-0906b895fae1,Incident Response and Forensics
+905e324c-1cf1-47ad-965a-9a994e81a8e4,Tools
+edc3c329-550a-4c7d-b94f-e49583617955,Firewalls
+93daf4be-5dfb-4a0f-b63f-bd6a517f80a0,Cisco ASA
+01f8500f-541f-42c3-ad6b-845ee41ab7fd,Palo Alto Networks
+806a5628-d048-4ff3-a8f9-97526824722b,Fortinet FortiGate
+1a664cd7-f8cf-4c7c-a0cf-cb7c45a05516,Check Point
+a1c9bdc3-ae36-41fc-b004-407ce8bad4ef,IDS/IPS
+61329432-c31a-4ec7-8b75-cd1806733f45,Snort
+d6c04716-1267-4b9f-9065-9e1df44c5eea,Suricata
+9ba7249b-666a-4382-a569-b6b93f3a68b5,Zeek (formerly Bro)
+ce565bfe-354f-4aeb-8017-117dcc767dee,Vulnerability Scanning
+ab84faae-6e8c-4959-9b4e-9322e3dbfd96,Nessus
+3cd30e04-5d75-4e08-b45a-95df996e966e,OpenVAS
+0e3114e6-005d-4de4-88b7-1bde35960845,Qualys
+c9575f29-8252-45fc-84c0-9d54c8bc5dfc,Packet Analysis
+0d6d5c9a-4e18-44d0-b47b-36c951d226f0,Wireshark
+1902e1d1-d227-4c0d-8372-c848d7ef8f64,Tcpdump
+3ac4f450-5d90-4fac-92e8-4ca4b8b4ff6a,SIEM (Security Information and Event Management)
+c0525104-af56-45f1-8823-1d278aecdcdd,Splunk
+57ae0608-a15b-40e4-ad10-0d66c6ea28b9,IBM QRadar
+0dedeed9-71b1-4402-a548-bcc3cc1d4934,ArcSight
+683f2b1d-5f23-4101-a832-027eaf8a38bb,Certifications
+6e9221b7-755c-45e5-bf4a-8db46fcbb75e,Certified Information Systems Security Professional (CISSP)
+b80742fb-c398-4ee0-a03c-751ab3298c08,CompTIA Security+
+177c6c33-2f96-49f6-bdf3-1bcbe00ff052,Cisco Certified Network Associate (CCNA) Security
+0389742a-1971-4ec6-9c07-40bc0edafd44,Certified Information Security Manager (CISM)
+36b6ee0f-f30a-44fe-98e4-97b6e8e5910e,GIAC Security Essentials (GSEC)
+c6ef1d75-262c-4938-a88e-ae01b62ea43a,Techniques & Practices
+c075a0f0-b612-4dc2-84e7-a4dbb90a37b0,Network Traffic Analysis
+fdc85c79-2b30-4096-8f92-ed47c7201f38,Security Policy Development
+45f59190-48f3-4067-9cde-7f1560eaaa0a,Risk Management
+d2f38bdc-1d9c-4e37-9ce4-29fd7dc85d74,Incident Response Planning
+5cad058f-fcd7-4a2a-949e-a53dbc64ae07,Penetration Testing for Networks
+b2815889-5886-4d46-9a4e-6a6da28bfb3b,Vulnerability Management
+70f00a36-624c-4a34-b611-b7e8046ffe0a,Concepts
+ae7dbbf4-95df-45c3-81cb-76d24237c466,TCP/IP and network protocols
+c63b182e-f5ae-46a1-a250-f4cb7c390ecc,SSL/TLS encryption
+b8fb9872-a812-44a4-b318-8e574edc56d1,VPN and remote access security
+90d2a725-8e87-4435-88a7-b0808f4f1ffa,Zero Trust Architecture
+b7e1f4ad-d051-4c73-8beb-2949246d4d85,Network segmentation
+e5d720a6-db49-4ac7-a027-00e8fa3e2bd8,Access Control Lists (ACLs)
+610cb0f1-2417-4544-8149-58e6bc116b93,Cloud Security
+f5eeb9c2-bc68-49b8-9021-33f612652bc0,Core Concepts
+31b42348-f326-4b15-857c-d39f82a82b56,Identity & Access Management (IAM)
+3fcfa2f6-fb13-45fd-8f6c-4240171f4876,Encryption & Key Management
+9c27f6b6-9991-4bd8-b593-1d414ee67168,Compliance & Governance
+40e80309-ca48-4ee2-a469-9686468a5129,Multi-factor Authentication (MFA)
+ca743ade-254a-4815-8582-f394df9ebe6c,Security Monitoring & Logging
+5815c2ed-e6a6-4edb-926a-b5011e24931f,Risk Assessment & Threat Modeling
+f53fef23-ced0-49ac-b0d0-1ebdae71cd3e,Cloud Platforms
+f6c4c3ca-112c-45cb-9fc6-9740a126ff19,AWS
+5737273a-781b-4c59-8b02-d6d12bdad2fd,AWS Security Hub
+e6a6c2a8-da61-420b-bb32-140ec73cd4d4,AWS Identity and Access Management (IAM)
+c262d6d3-e35d-4520-9fe3-0b6b4f95abae,AWS Key Management Service (KMS)
+a0ef8a29-ef62-4528-b9d9-5f46860723fa,Amazon GuardDuty
+be9a8b6b-1697-488a-828b-6192d6fb5786,AWS Config
+76a30481-505a-46a8-b7d6-d6ec9a4f740f,Microsoft Azure
+b7ef5c3e-3e4f-4d75-8336-bb65446426e1,Azure Security Center
+67490b49-5901-4f3e-b005-3caa70436235,Azure Active Directory
+6b18db67-56ab-4c95-af7d-2cccfc470dc7,Azure Key Vault
+7146663f-7d4d-45ac-8c02-e045a01cc932,Azure Policy
+01baf8e5-27d5-4360-938b-f5c606263aac,Azure Monitor
+e7538b7f-f728-4850-85af-96c3af9ecda7,Google Cloud Platform
+e31a02db-8282-4349-b756-1d9e51801074,Google Cloud Security Command Center
+63ff8f77-4297-4b5a-8da2-b81b1c3311bc,Cloud Identity & Access Management (IAM)
+791d044a-edec-40f0-82e2-39a4980f4fe3,Cloud Key Management Service (KMS)
+14bdbcc4-5d8e-4cdd-ae02-5018fb193faf,Binary Authorization
+caa6e2f8-9063-43af-9c60-e5d4ac77c8a2,Google Cloud Armor
+fd22af6d-801f-4488-8e35-1ac8377ac816,Tools & Services
+6a3a648f-5502-4cd9-80f2-23252107d934,Cloud Access Security Broker (CASB)
+c3524e78-2605-465a-8e3c-c2ba283dd191,"Container Security Tools (e.g., Aqua Security, Twistlock, Prisma Cloud)"
+fb9feb09-52fc-4f23-bd98-8e369c1fa7b0,Serverless Security Tools
+cdcfb393-7c9b-40ab-9fa5-fbc7a884483e,Vulnerability Scanning Tools for Cloud Environments
+704fad33-3ba3-4812-bdbc-90610c1d56c8,SIEM Integration
+ee9472f2-8577-4775-a997-54ca46d5bf7a,Practices & Methodologies
+8a1f3df0-3ed9-45a3-96cc-12abd1c5360a,Zero Trust Architecture
+e46bee8d-81e0-4b9b-8b1e-f069f4a6ad2f,Multi-Cloud Security Management
+fb03241c-dbdf-45dd-985a-b634fbbb49e4,Security Automation & Orchestration
+62cd1577-f38a-4ea3-808b-0750fc16f125,Incident Response & Recovery in Cloud
+7b710066-3083-45e3-a098-251292850c76,Secure Cloud Configuration & Hardening
+d9317799-534d-4fc3-8f31-61e71632913d,"Compliance with Regulatory Requirements (GDPR, HIPAA, PCI-DSS)"
+267bcee2-eb2f-4237-9614-0043010f0f4a,Certifications
+9d53fefd-25ba-471b-abac-df6c188f3845,Certified Cloud Security Professional (CCSP)
+e6e44fb3-8c00-44ef-b5a0-73cb71b9d95e,AWS Certified Security – Specialty
+3e0a1162-939b-40eb-8caa-b5acf941a8a6,Azure Security Engineer Associate
+1b6ee280-cd57-4df4-9e71-0ded8bf242c1,Google Professional Cloud Security Engineer
+df558112-e579-4765-a17e-a8e21f9cf009,Ethical Hacking
+6cfa403d-6354-4dc2-9816-0a932295e9b1,Core Skills
+21dec28a-03a7-4b94-a8c4-7f5354a90994,Penetration Testing
+b0c56970-22b2-4fbe-bb1b-1efaded6d687,Vulnerability Assessment
+995238ee-679b-4eeb-811a-23910bc14636,Risk Analysis
+8987c24a-3865-42e0-9f7a-4a47854dc599,Security Auditing
+501967bb-aace-40fa-9639-33b699a04ecc,Social Engineering
+ab155b17-9670-4e0d-ba2c-fa28d85f2088,Techniques
+9f9e0416-c18a-442f-887f-b39a0809c9e5,Reconnaissance
+af5aeda2-b05d-407b-93cb-a4ae550b106c,Scanning
+2a0808db-a158-41c1-b26a-492af7d4d311,Enumeration
+cd4471f1-609e-4f14-923c-59b62ac0d4a8,Exploitation
+7b41cbb1-ce29-4d42-bde3-bffd6170d797,Post-Exploitation
+9ad2a1d6-3d4a-433e-b403-591e94c6fa3f,Reporting
+2e771e42-22b5-4010-a4f8-9e3024713ab2,Tools
+e7de7dcb-d2d0-4c87-be5c-6b619aa34fee,Operating Systems/Platforms
+dba5f816-18ee-4a9f-9c39-58c9a7a07ee5,Kali Linux
+dd088e6d-79f3-4b5a-8f07-ff7e271d82d9,Parrot OS
+f97b0af8-726e-4b11-b694-fc55a3e66cbd,BackBox
+07a1eeba-2a41-48ea-b58b-04cd95825484,Penetration Testing Tools
+96d71d17-43f7-4172-a496-ebeb175277d8,Metasploit
+aef13ab7-0fbf-47c3-971a-cb5fd4c3aba9,Nmap
+e6c79348-0544-486b-b6eb-6310641e64aa,Wireshark
+8c73db27-49cc-4e0b-a0a4-6f065926be34,Burp Suite
+d6e71a85-c777-4be3-a97a-324dfbe69a4c,John the Ripper
+a47b0845-4301-4ece-8585-edffc86350df,Aircrack-ng
+9895d886-859d-4695-a949-9e7a767da09b,Hydra
+3c66514f-432c-4d9a-b77f-6f43149a0d44,SQLmap
+4a202920-5bb7-4874-81b6-ee64b3908b4e,OpenVAS
+15df5c85-0c43-4731-b797-150e41e1067e,Additional Tools
+f61f8428-78e3-433a-a2fb-9efabce9414f,Netcat
+0321e927-81bd-4240-b3c6-98efec6c8f68,Tcpdump
+5da089a3-728b-47ed-abad-4fc597324c14,Ettercap
+b9807ff9-3f30-4b36-933b-a6ad0998de8b,Certifications
+d25c2153-a1ea-48dd-a37c-c10d523880f2,Certified Ethical Hacker (CEH)
+eac08208-29ac-4773-a8f7-6cd04a7387e5,Offensive Security Certified Professional (OSCP)
+7db98ded-a34d-409c-be7f-1d36c67378c6,GIAC Penetration Tester (GPEN)
+da473732-74e0-4470-ae1c-604ec53d4c85,CompTIA PenTest+
+bf24a606-f75d-47fe-b482-0198a2e3ee00,Methodologies & Frameworks
+a4731d94-a99a-4930-8e26-1524fc58aa67,OWASP Testing Guide
+ed4e102d-8b2e-44d7-a39c-ad70c3be7c69,PTES (Penetration Testing Execution Standard)
+7cfea196-b102-4687-a7d1-f16543db3dc0,NIST SP 800-115
+2143ff52-d3c3-4a96-bc3e-6c11bed98039,Reporting & Documentation
+c5a7efb8-7aab-4686-a081-6e152f985715,Security Reporting
+833e1efa-02a9-4b92-af42-fd04b375fe50,Risk Analysis Documentation
+eaa6e901-fdbc-4935-99b8-69e74333d155,Remediation Recommendations
+adf4d1d4-920a-4640-88ff-102bd0c1501e,Cloud Computing & Infrastructure
+3a0434fe-8700-4a31-a12e-8e6d0e3cfc07,Networking (Cloud/Infrastructure)
+c190c052-9372-4ae7-a909-2a58fa2b0c61,Core Skills
+258f3aab-f97c-4774-aac5-770cd5cd7ae3,TCP/IP Protocol Suite
+8e3aca86-f2c5-4afc-a9be-7f01cfe0e6bc,Routing & Switching
+7ae50fb2-4336-41b7-89ec-de0edfadc65c,"Network Protocols (HTTP, HTTPS, FTP, SMTP, etc.)"
+7ffef4d3-e043-4da5-abf0-bfa3d505dbbe,Firewall Configuration
+bf0d7e47-29f0-4e11-97bc-7047469eb529,VPN Setup and Management
+8316c71f-14ee-4db1-8fb4-867db18919cc,Virtual Networking
+c8e8ab35-6684-4a10-9e40-b7cb0609ae32,Concepts
+61ce0efb-bb48-4cbf-9124-f52a6d31d959,Virtual Private Cloud (VPC)
+3c264fd0-a90b-42a9-b403-e86641047234,Subnets
+1930e01c-2efa-4892-997e-b5ad06645341,Network Access Control Lists (ACLs)
+aa8ab26f-85f7-4240-8a58-adead387d260,Security Groups
+a7ef547f-2e26-4b6d-96f2-573e4999da3f,Cloud Platforms
+874b48f0-ccc2-4c11-87c4-4a14d832930c,AWS VPC
+249a2981-d785-4d16-84d7-1d3b82234023,Azure Virtual Network
+b347d0d8-8c1b-47d3-b276-196a19ae2d5e,Google Cloud VPC
+e1aee33b-089b-46ee-acfb-629d66906ac5,Load Balancing
+ec10547e-3bbd-488b-b9e3-659d90246d02,Concepts
+117dcf7b-c269-4ca9-990d-6cb27bbbb76b,Traffic Distribution
+94f54e0b-2b84-41f9-b7b4-73fd4ede49fc,Session Persistence
+3ad0fa65-ab97-47fa-8b84-1b8d0502d343,Health Checks
+8a44783d-f1b3-45f0-8c06-411885812826,Tools & Services
+06152a31-5be7-47af-a6f5-95ae8ee189ba,AWS Elastic Load Balancing (ELB)
+d72776d6-395d-4e5e-8f28-6918d70090d7,Azure Load Balancer
+f7b28b6a-30d3-4f77-bb52-ea2b90629845,Google Cloud Load Balancing
+bb827bc6-ff4a-490d-91dd-f2370a2c5fbc,Software-based Load Balancers
+0b17ca34-a97c-4562-9452-26def53a3ac8,DNS Management
+ede4d5dd-1edb-4552-8302-36af5882b661,Concepts
+a3017402-729c-490a-88a3-ec26fa2493df,Domain Name Resolution
+7e6c4b56-4845-432f-8cab-89b1ae5aae44,Zone File Management
+8a18d5b1-65a6-47f1-bb21-57b26df1dbed,Tools & Services
+234ff5ec-4489-42b6-925f-34f4d0e8dc96,AWS Route 53
+8bf34748-021e-4371-a763-894a9036cbe0,Azure DNS
+2594d14d-70e1-4e12-948e-345b254ad9ef,Google Cloud DNS
+13253738-a69f-4cad-9c5f-7ee72fc91047,Content Delivery Networks (CDN)
+5f4ffd7f-9d5f-45f3-baf8-c2d885e93d71,Services
+cb4aafc1-ab34-4418-b8cb-dd9ccc3efc7a,Amazon CloudFront
+9041e9e8-5264-4475-81c4-15a7511c4f44,Azure CDN
+21d23faa-8e23-47bc-b80c-edc726b3e19f,Google Cloud CDN
+2e35c0eb-cf63-4ec9-80ab-75f22f293000,Other Global CDN Providers
+61f0e0e5-aa9b-4177-8a1f-4a0034a6c7b1,Network Security
+d2d04728-5f16-46b9-9349-634a5bee9fd2,Practices
+185155ee-4f4e-4d45-86e7-23b9ffc20146,Encryption Protocols (SSL/TLS)
+faddb2a0-4b91-4772-9758-b4aa1ee85bea,VPN Security
+3b833d29-118b-47b0-a944-da20446145af,Intrusion Detection/Prevention
+6a89f8a7-5af5-4f25-b376-1b05e96873e4,Access Control
+cd04e31b-a7e6-422b-b20f-367bbf5b643e,Tools
+84cf021f-9182-4c20-bab5-a6a98d622941,IDS/IPS Systems
+de00ea24-903a-49fe-a9d8-135300533b51,Unified Threat Management (UTM)
+e4c07d42-4c63-4c4b-bfc4-68c3b4387f7d,Monitoring & Management
+772aa4a3-6335-4f37-bb81-316fa0ffb1ed,Practices
+f90f5c53-38cf-4719-b484-582868fa88a6,Traffic Analysis
+090f6762-b1ef-4707-8779-3302afead61d,Performance Tuning
+f6ddf6a4-9fe6-4c19-bf81-e87c2bf4ea5b,Log Management
+58c63b85-f040-4417-bd97-d4ffc5bee6b6,Network Health Monitoring
+6abf8a98-b186-4282-b654-8d57cf8473eb,Tools
+f58d2b36-bf4b-4dfc-bb58-40d9fd3094f4,Nagios
+628a8016-3dee-447c-b6cb-7f37713fd6dc,SolarWinds
+2fc9fcd7-345e-4b8b-ab8b-e681b58653e2,Prometheus (with network exporters)
+bf3baec4-671b-4212-8127-0c3d851e4dc2,Automation & Orchestration
+ea6c395e-57d2-45eb-ad8e-be8f69f51740,Concepts
+ef06e7f4-aa63-42e0-a9da-6390b43624e6,Software-Defined Networking (SDN)
+3e00faa9-5bf4-46bc-a58b-3abd4a1455c5,Network Function Virtualization (NFV)
+18236644-9cb5-46e3-ae66-1679f161cc15,Tools
+286ab171-c40a-4949-98b9-915cad7de4d5,Ansible for Network Automation
+8a7cfbc9-dfc7-4aab-a7d4-120182b4763e,Terraform for Network Infrastructure
+4739e038-0d42-4280-b25c-2c60dc8f3fd1,Cisco ACI
+49891a0f-24b6-4b79-818d-d879cbfb9d19,VMware NSX
+1efb45ab-51b2-4b67-83f4-b5d1303631f5,DevOps & Automation
+64632201-3306-43b1-a8d6-7cfbb8646da1,Practices
+9ffb5c14-b17a-45c0-8269-fb22cf8e25ff,Continuous Integration (CI)
+8ac41b86-62fa-443c-9220-a26e25a7cba2,Continuous Delivery/Deployment (CD)
+13c835f9-6d62-4ea1-8e7c-dd241be3e579,Infrastructure as Code (IaC)
+9d726e6a-da74-4a7d-9e20-32f5022fc693,Automated Testing
+c185ea83-1bf6-4765-9efb-0ab054c657ca,Monitoring & Logging
+b6be2ef2-cae9-47c3-aa90-e7e6137d3eac,Configuration Management
+32cb07e0-c323-4c5e-bcae-02e5ac81d418,Security Automation
+5f487004-ba5e-49a8-a231-ec993bdbbbff,Microservices Deployment
+4bfa598f-086e-4122-ad7c-421edf03e57a,Collaboration & Communication
+88e14913-c89b-4602-8edb-d43baa27b394,Tools
+079c77e6-b299-40da-9882-2b399104eb1a,CI/CD
+63023e9e-c15c-42d5-93be-9574710716eb,Jenkins
+2fd59ae1-fae6-4a9f-9afb-42838688c0bc,GitLab CI/CD
+3f729b90-3fb2-4fda-bc72-f5fcc5686204,GitHub Actions
+52e547b9-62dc-43a0-958f-ef689d0c9af9,CircleCI
+e8d90736-1f6d-40de-b622-9326ae482465,Travis CI
+6d7b16c9-60a2-4bc9-a43e-1fd9d50e5fb3,Containerization & Orchestration
+c20928b7-78ca-4f3c-bf46-a379f6971388,Docker
+238560a2-cdf5-4a8a-87f2-7034ae5f2958,Kubernetes
+b15641f5-8d5c-4814-be64-dbd4d7fd1e06,Docker Swarm
+d5743690-b4f0-4763-ad92-74dcf4633679,OpenShift
+5ec0bf35-c5f8-4033-875b-a1c70658ada5,Configuration Management
+353b63f6-172b-4045-bb29-4e441a198465,Ansible
+648d03e2-b017-45ca-a878-a051e263f814,Puppet
+893f9e8d-bbcf-4f7f-bbd8-62867df7f5a1,Chef
+37841ff8-6acb-435b-b019-70d30b169f2c,SaltStack
+4fd32fea-048f-4d2e-9fa7-52a186f7b3ab,Infrastructure as Code
+5192fe94-119c-4e9f-848c-1a46a8d573fc,Terraform
+78a2652a-8869-475b-a35e-111bc687bf97,AWS CloudFormation
+31aaaac7-f99d-4770-b8cb-dfe9a629fa19,Pulumi
+f7196cbe-9d8e-4e4f-9303-686ad2e06f6b,Monitoring & Logging
+f57e0637-997b-468d-8b56-f251ed90b8c7,Prometheus
+0ae887e9-30a8-42ee-9038-f1f16dd8f1b9,Grafana
+43f2ad47-174d-4af4-be4e-5003c331ff08,"ELK Stack (Elasticsearch, Logstash, Kibana)"
+f2ca11c8-9706-4038-89f8-90ef0d623302,Datadog
+ea4ad6f5-4c59-483d-aeb9-7996133ee8ff,New Relic
+8e0f1180-222d-43a6-84ae-fabf610b4d71,Version Control
+057d9959-cf86-4526-b3f7-937feaec5c4a,Git
+8e148979-523d-4d51-baa3-530777f88a3a,GitHub
+bf2baba8-0088-4658-b444-12bd03a615e0,GitLab
+00dc8c96-c8d2-45a2-8292-81468b50e69b,Bitbucket
+cfbe4862-07a3-4bc8-9d4c-2b743769265b,Automation & Orchestration
+f6dc1775-baa6-4832-b211-967585c3be93,Jenkins Pipelines
+ab9fb167-e1ea-4bb3-b915-ecbeb81afe03,Spinnaker
+57687ffc-a7e8-4071-ab92-6d71355d5a70,Argo CD
+bba23d08-b1e8-4600-a41b-7b1ddc737ea5,Certifications
+0573bdf8-a081-4955-9099-8d9dc833675d,AWS Certified DevOps Engineer – Professional
+58d03368-1185-4a0a-b4d0-c9e6c7809a16,Azure DevOps Engineer Expert
+cdedf0c3-3c7d-45e1-bbb0-44a13c39dcd8,Google Cloud Professional DevOps Engineer
+db2f06b9-98dc-492c-be83-2e93aff49789,Certified Kubernetes Administrator (CKA)
+067e2611-58a4-4061-a39f-0aca44a89a82,Concepts
+58628778-38e5-4177-8138-bd66a97c3ac5,Microservices
+b177a86c-26c1-45cd-8e7a-bed3c86a20c6,Serverless Architectures
+57811570-1a11-4689-98ef-1ae2cb063d37,Blue/Green Deployments
+b6cef58d-867c-4784-bfc1-6b57985f896e,Canary Releases
+5c2d6473-5b89-463d-b48a-dd85b69bf4fc,Immutable Infrastructure
+3a37ae19-a18c-4a2c-9908-0d0b939b0abd,Automated Rollbacks
+5663c58c-5810-4933-b325-b64696f4cc40,Cloud Platforms
+7d5aad92-ecd0-4dff-9fc5-5058b3e8a399,AWS
+644be896-3c13-4ed3-a403-294895b68e1a,Core Services
+5e6fb7df-8d5d-4edc-8d8e-a4175f560053,"Compute (EC2, Lambda, ECS, EKS)"
+e92c0899-3684-4ccd-b04b-950849e8fc3c,"Storage (S3, EBS, Glacier)"
+3540096f-996c-4afe-98ba-4bb2f9b5052b,"Databases (RDS, DynamoDB, Aurora)"
+7980292e-08a5-466d-87b4-19d41674a6cf,"Networking (VPC, Route 53, ELB)"
+97f96a47-1e40-401a-9e51-25047f9914e3,"Security (IAM, KMS, CloudTrail, Config)"
+ee381dd6-306f-45e0-80fa-80b03f4b83ea,Architectural Skills
+e1bfa5f5-926b-4310-8d36-d64a0c0ae2e4,Cloud Architecture Design
+39bfb857-d991-4973-b108-e5f717abaad1,Scalability & Auto-scaling
+ff62a3d9-f476-4d7b-a44d-3632b99e65e1,High Availability & Fault Tolerance
+dca325ab-65cf-41fb-8ec1-260464c6ebc0,Cost Optimization
+8372925d-52d9-46da-870e-3aaa74e656b4,Tools & Services
+59f9c754-65d6-4d7c-a7af-29c33057aaa9,AWS CloudFormation
+09ae5ea8-e0a8-45cd-b73f-cb5b41e4bc33,AWS Elastic Beanstalk
+41bcd6d3-1237-4482-9c22-65706d9c391d,AWS OpsWorks
+60016aed-6921-491a-a1ce-3a30783d0fdb,AWS Lambda
+2975e772-c008-4814-b233-6f5b81d39c0f,Certifications
+f77c8f3c-3366-4d39-9e75-13e893700507,AWS Certified Solutions Architect – Associate
+f5dcbdf0-fc32-410b-bb87-b6deb3209f32,AWS Certified Solutions Architect – Professional
+16a0445d-e2a1-4c68-a037-dd9f742639d0,AWS Certified Developer – Associate
+004a7330-2008-40e3-9b84-6ea6fc58c34f,AWS Certified SysOps Administrator – Associate
+5014e14a-d8a5-407f-b7ce-a69db4e0eded,AWS Certified DevOps Engineer – Professional
+1f0418f8-4d88-4058-8332-f0b7840b8413,Microsoft Azure
+3f67b835-d813-4281-b031-88868fb21ef2,Core Services
+9b5257dc-561b-4e1d-9fcd-5c740979f603,"Compute (Azure Virtual Machines, Azure Functions, Azure App Services)"
+e2be8612-01bd-42e4-af6f-39072c3a4413,"Storage (Blob Storage, Azure Files, Disk Storage)"
+94adfd0c-1769-4303-926d-12a4efc307b4,"Databases (Azure SQL, Cosmos DB, MySQL, PostgreSQL)"
+9b94128c-05dd-488f-bb8d-d3d8e0f9add3,"Networking (Virtual Networks, Load Balancer, VPN Gateway)"
+7486f2cc-3977-4a2b-8bc5-7569882d0c99,"Security (Azure Active Directory, Key Vault, Azure Security Center)"
+5a38dfc0-7555-40c6-9249-ecdd02b49741,Architectural Skills
+a5ae819f-2693-450a-b506-bd0e6a1d3641,Cloud Architecture Design
+5d7c7936-6d07-4337-aeb0-4acaff36d451,Scalability & Performance Optimization
+a5f52138-d65e-49fa-a991-9dd8124cf4ea,High Availability & Disaster Recovery
+f41710a8-d759-482d-9d3f-0215227d7e6b,Cost Management & Optimization
+3c7b200a-8e03-4890-b79b-66d69fc3aa24,Tools & Services
+b53c538c-a082-499a-a048-cee1b66ab651,Azure Resource Manager (ARM) Templates
+28d79c10-61b2-4ca5-89de-20d1e7abf13b,Azure DevOps
+423dccb0-055d-418a-a732-53ea30521e3e,Azure Monitor
+2d025897-a155-4559-a08f-3cd902e8274a,Azure Automation
+0b8d4a16-17ea-4d54-863b-cde99b6f446b,Certifications
+df14e84c-9af3-4f30-9e03-561cc235565e,Microsoft Certified: Azure Fundamentals
+85008e80-eba2-4d51-b312-0d008fade738,Microsoft Certified: Azure Administrator Associate
+f9b5c742-aafb-42e6-a93e-b521331d49e3,Microsoft Certified: Azure Solutions Architect Expert
+9019a34c-c284-45d6-882c-f6e5795981f9,Microsoft Certified: Azure DevOps Engineer Expert
+51b24495-1676-40c5-aca9-cdac38fc0ed7,Google Cloud Platform
+1f9dd842-213d-4649-9126-b095ccfa0a8e,Core Services
+56d27294-98d9-4105-b190-01e9ad3de51f,"Compute (Compute Engine, Cloud Functions, Kubernetes Engine)"
+a50306ef-7569-4ec3-a5f2-d054184ec17f,"Storage (Cloud Storage, Persistent Disks)"
+4c54e6b6-24f1-4727-ba31-9bf0b7b26460,"Databases (Cloud SQL, Firestore, Bigtable)"
+56c9eafb-0206-4792-9819-9c7cc7c78419,"Networking (VPC, Cloud Load Balancing, Cloud DNS)"
+bb7a3435-23f4-4e63-8940-bd15161f53e7,"Security (Cloud IAM, Cloud KMS, Security Command Center)"
+7356d55b-35c2-4b7b-8deb-31385cd73b1c,Architectural Skills
+12a9a929-4611-48bd-b92c-4e261b1ebcc2,Cloud Architecture Design
+b3e10808-298d-4ef6-b41e-84ecd2135ff6,Scalability & Load Balancing
+0be64661-ff00-4c9e-9f18-674ca33fa77e,High Availability & Disaster Recovery
+d0f5a288-ca1f-44c4-96b6-7b1a6fac4ad0,Cost Management
+576e0df1-875c-4268-996f-222a29b5bb45,Tools & Services
+bf088a63-6c23-40c0-9407-e6297ce2f8ed,Deployment Manager
+d0cd349c-34a1-4c26-b27f-614fdb470208,Cloud Build
+8e51a179-29e0-4b72-887c-b3743ee13bc7,Cloud Run
+46748b34-dc9f-49da-8afe-f4e76f4dbf7d,Anthos
+b7f0e35d-4839-4a4f-856c-bb01deecb6fd,Certifications
+e72b5f14-1086-4a11-926f-8d2f07aacf69,Google Cloud Certified – Associate Cloud Engineer
+7db1dbc9-b09d-4013-93a6-e0efa67100a0,Google Cloud Certified – Professional Cloud Architect
+30905bf1-513d-4d6f-aa6c-e768a31560c5,Google Cloud Certified – Professional Data Engineer
+5221e3d5-b116-4279-a686-4dd3a011e96c,Other Cloud Providers
+43e142f3-a93d-4a1a-bbb6-84313cd42678,IBM Cloud
+89fa0485-173c-4ad4-97b3-afef54e46551,Core Services
+8670bca0-69f8-4062-9aad-e4a4d8c1b3a6,"Compute (IBM Virtual Servers, IBM Cloud Functions)"
+c220c785-90ad-4956-90e8-1a390bfc87eb,Storage (IBM Cloud Object Storage)
+348ecaac-52af-49a1-afbf-cfa26cfef3f3,Databases (IBM Cloud Databases)
+21fff1e7-d694-4722-8d4d-82a2afff1edb,"Networking (Virtual Private Cloud, Direct Link)"
+6967e64b-82e1-44e3-ae43-02777d89860f,Architectural Skills
+1fb0886c-68fb-4f22-a7f3-0153c2876229,Cloud Integration
+f45f5bb1-a3a1-473f-a677-a5333575d6d0,High Availability
+19d5719e-cbc1-4ac3-af67-94e0b7432a2e,Security & Compliance
+4ac7291a-2fc7-4cd8-9e0f-7c34e574bc6b,Certifications
+df36a365-556b-48c4-adf0-728bacb123fe,IBM Certified Solution Architect - Cloud Solutions
+0cf0f9d0-1e38-4530-9a36-e305822279db,Oracle Cloud
+a101583b-9337-4781-a23a-892278857146,Core Services
+c01f8dd7-160c-4b7e-bb79-ab9928cc05f4,Compute (Oracle Cloud Infrastructure Compute)
+4dbe2f56-68a7-4c6b-9767-dd9d62a6c205,Storage (OCI Object Storage)
+39ba55be-ab3d-4b50-9e29-71939d23d406,"Databases (Oracle Autonomous Database, OCI Database)"
+a78497aa-dd22-4118-aaf3-d92962e4b5b7,"Networking (Virtual Cloud Network, Load Balancer)"
+e4665a96-5773-4490-94c1-a9c0383c3ab9,Architectural Skills
+0cd2ce78-f554-49c8-b987-b67f0c75d7d0,Cloud Infrastructure Design
+185e628b-4bc1-4f0f-b55c-f80696c9b6a3,Scalability & Performance
+f7a7d43e-8b66-45f9-9156-623637303dc7,Cost Optimization
+30e8df83-5a7a-4b40-b53f-6eebac3445df,Certifications
+8c8265c7-7142-4724-91ca-17909f381b0c,Oracle Cloud Infrastructure Certified Architect Associate
+678a3387-f6a0-465c-a2d7-7152866059ba,Oracle Cloud Infrastructure Certified Architect Professional
+026b1a36-f4b3-4199-a82d-de4a5fc0e98e,Data Science & AI
+c82c9239-6a76-4686-a72d-b2092f5872fd,Data Engineering
+1b554852-7fb4-4847-a92e-0fbe32ccef3c,Programming Languages
+6e840a02-e746-4788-bac4-abfe18b00d64,Python
+90374d03-4682-4393-ba25-9ab35cc18d43,SQL
+a3d02d92-1822-4261-8a93-860c0e4eb6e0,Scala
+e134b4df-5930-4829-978b-7d268e0f38c1,Java
+89c58867-e4ec-44cb-97c4-dbbe4a086b20,Big Data Technologies
+62843df4-7804-42b3-af90-f6bbcdab1147,Batch Processing
+5bf45205-f3e0-475a-ba88-101ed1b88996,Apache Hadoop
+7d3fe830-9f9f-467c-965e-cfdf3da3cd88,Apache Spark
+a0466929-bd80-425a-9c2e-bfd5a5410fd7,MapReduce
+1e5fc1fc-a803-4261-a51c-5188667bb4d3,Stream Processing
+52ce4a19-7047-4d9e-8be6-85f397404b1f,Apache Kafka
+bce3061b-5cbd-46cf-ab73-9d22cc80203a,Apache Flink
+d82f1afe-8976-4ffb-946e-e797a2f27f8f,Apache Storm
+ef852c1b-b7c4-42e4-80c1-68fccd0eb6c4,ETL & Data Pipelines
+e8da24fe-9887-485a-a050-2551f25f2028,Apache Airflow
+314b0ca8-0c2b-4b6e-9d58-fe7d44044412,Luigi
+9a87c827-9030-407c-9547-a54ffdbf4723,Talend
+3cfdd649-4a53-4640-8539-d5481492ca19,Informatica
+99918f74-c9a2-480e-82a8-112fa4c9d4a0,Pentaho
+4a87770a-26ac-4b03-8d39-963e9409f14f,Data Warehousing
+8be7234d-bc60-4940-bfa4-9914e61c012e,Cloud-based
+c518b6bb-58e6-4322-8b68-8f322bffb6b0,Amazon Redshift
+7cde79ff-b1d8-42ef-b6bc-cf55228d9916,Google BigQuery
+32a15239-21fc-4f55-ac25-99b8438c1654,Snowflake
+1d9fe30c-b62b-41ee-8122-b2794edb09bb,Azure Synapse Analytics
+e40ff6ee-c07f-4d13-8697-9801951eacbb,On-Premise
+2bc1af39-6ec5-4b1a-8bc3-883d3eb9831b,Teradata
+655e1932-600e-4837-8e52-8023826fd9ba,Oracle Exadata
+7d26b28f-19d8-4e11-9b94-8d3f72f506b8,Data Modeling & Schema Design
+30d49409-de52-43ad-8bbe-b20ffdc21b1d,Star Schema
+01c02fd1-a4c7-4502-8d1d-686e85c56605,Snowflake Schema
+0fd7e731-53d8-4904-a33f-904f9b9b2182,Normalization
+44922acb-f725-4286-a733-8c8c29ed91fa,Denormalization
+3d1bef42-f306-49d8-be7b-5e36f662d125,Database Technologies
+64bb1319-7c32-458d-ae33-f90f70af20a6,Relational Databases
+2e4d0928-ab0f-4782-b08d-a6bc3edf7bdf,MySQL
+037fe2f0-8b71-434b-840d-ace0c8f828ce,PostgreSQL
+4d3c288c-f361-4de8-9497-cbf959d77a5f,Oracle Database
+1410bb5a-bbd6-4568-89ae-a840db57885b,Microsoft SQL Server
+019aac2d-5978-40b6-b88f-77327c2ccf29,NoSQL Databases
+189e31d8-009a-4c85-8d14-933dbcc29e1e,MongoDB
+0e324238-4511-475b-ac88-e1ef365e0024,Cassandra
+77fea613-5987-43f6-b42c-f7cfddfb9154,Redis
+1aaf4ad7-a7b7-4d2c-a009-3fa9284b2d8d,HBase
+2838fa7b-e5a3-4860-bbfa-c13813b64cec,Cloud Data Services
+bb295e22-a4d4-43cd-a921-f656872e3792,AWS
+93d9becd-15b4-483c-98fc-6d9958194259,AWS Glue
+0034618a-bc2b-4e1e-b714-0a365a363f83,AWS Data Pipeline
+7b94fa8b-8a2b-47be-b893-9b4c270d15fc,Amazon EMR
+35036b92-5ba4-4bfe-8bea-7600567b4b1d,Azure
+f77d96d9-47d4-4452-a14c-3843ae3f9a2c,Azure Data Factory
+88a4ac8a-5d04-4c76-8695-038cb2b90f21,Azure Databricks
+70cdce3b-a9a4-42ca-9687-c964f2470808,Google Cloud
+d6bf2ffb-3887-4633-b6b2-a8fd014e7a2d,Google Cloud Dataflow
+adc78b50-81b0-4fe9-98ad-b6756ac6a263,Google Cloud Dataproc
+7108c511-08f1-465b-9137-ea97c9330e78,Workflow & Orchestration
+f20be910-fa20-425e-8fb4-c641a2d9ec3d,Apache NiFi
+e7cbf5cf-9c55-422a-82e6-bbed984d4d2b,Prefect
+bceeb4e7-cec3-4e5e-bc0c-4b1f6720525e,Monitoring & Performance Tuning
+7d97261e-8635-4392-a1f9-0bc4594ee454,Data Quality Monitoring
+5e4e7c25-2c45-4006-b7f3-f583993f029b,Pipeline Performance Optimization
+653fc6a9-7f90-419c-9386-f4722fb03a52,"Log Aggregation (e.g., ELK Stack)"
+d68b5e8b-addf-44ad-95b4-271ac0c2a619,Data Governance & Security
+bcd65b7e-eb3d-4c85-920c-b63d4391e208,Data Lineage
+bf242421-1ce2-42b1-9408-894a3d80951f,Data Cataloging
+3e30b355-9523-4228-8b36-586de1c9d5d8,Access Control
+1a4dfa12-436a-4a1d-abe4-9de03b66c333,"Compliance (GDPR, HIPAA)"
+3d0ecf6b-5659-449a-9977-66c12d5ee652,Business Intelligence
+ba66d760-6d3e-45b2-b506-829942ea09ac,Data Visualization & Reporting
+f32aca44-bd22-4257-ba23-9e819872317e,Tools
+218eb5f9-3b9c-4bf2-bf99-7b7403b49953,Tableau
+ff1dee16-6610-4390-80d1-115d92056b5f,Power BI
+3cb26438-b144-47ac-9861-77ee3a81011f,QlikView
+c9c10f1d-35a6-4e7b-abd1-d9fcf358e211,Looker
+42ec4fa8-ad3b-4582-84a3-e5431dfae06d,Google Data Studio
+237f04d4-dd3e-499f-8886-4e42b3a09c65,D3.js
+06f932ca-1823-4a3d-8024-cad3a15fb229,Reporting Tools
+ce705194-b6ba-4cf4-8ee1-18043bc205da,Crystal Reports
+2cf7509e-ca83-46f4-b972-d98fa7eaa192,Microsoft SSRS
+d600c690-5417-4dd7-9ab0-5326846c011f,SAP BusinessObjects
+b1ff99d5-1162-4bb0-a7bd-e3fa35cc2fb3,ETL & Data Integration
+9979bfca-dd61-4eff-8160-723936cd7fa8,Tools
+651f4f2b-95a9-4a29-b827-fbc49c9a53c6,Informatica
+9bda617f-2c11-4eda-8f91-3186b6631d2d,Talend
+2b336e86-57f8-457d-9b14-eff5034b5c06,SSIS
+7b6f5c68-2690-435b-81a1-41a5311c9259,Pentaho Data Integration
+aeb61293-bed0-40fb-a8e8-d294da76b295,Apache NiFi
+83c427fc-2412-4129-a291-02e1e771f124,Processes
+ce4b593b-6745-4cd6-82f7-310ad504788c,Data Extraction
+e4828440-9ed4-4e7f-85c0-d56022f292fb,Data Transformation
+b07f8415-4e0a-41b4-bb23-7ec1f6d401d6,Data Loading (ETL)
+0e70f03e-aa55-44a2-8c7a-2011850c0852,Data Cleansing
+51e80e59-0247-4d82-8f51-0b830651304a,Data Integration
+cece1f3a-8db6-4d0f-824b-77e7e2f9dccb,Data Warehousing & Storage
+eb3771d3-8c4b-44ad-8f09-ee31f587bf04,Data Warehousing
+7252d3a4-49c0-4879-9bab-f280d59ab934,Amazon Redshift
+39a0c5d8-1f7a-4971-b7eb-e844ad35549d,Snowflake
+f46e389c-1b04-4114-a77d-174d9308b402,Google BigQuery
+ca9e2031-52a3-4938-b046-ecb030e5f1fc,Azure Synapse Analytics
+fd2e8d16-e926-48aa-ac88-2d82376e946d,Teradata
+bd79a8f5-d90f-42e6-bd4e-c245fa26af6e,Database Technologies
+c7fd252e-559b-4e27-b4c1-b46e050753c3,Relational Databases
+86023558-272a-4cc8-8f2d-5dbf17f0f3eb,SQL Server
+35d1e0d4-3462-4789-bd4c-fb3f6eeb683a,Oracle Database
+b1921855-001a-46d6-b2ef-1968ba67be52,MySQL
+36b69ef7-4858-46d9-8586-c7109fa5a356,PostgreSQL
+3126f4a4-83c8-4d88-ae4b-c9e325ba2add,NoSQL Databases
+f5c224da-9caa-448a-8ad4-975410962eca,MongoDB
+3aa40bee-8c80-4495-b1ea-acb97550fdde,Cassandra
+9fe57468-5b4c-4cfe-b172-8d8d9fbe6f1f,HBase
+b97f4aea-759d-4940-9b7d-271cddd56b8c,BI Concepts & Methodologies
+0dba0206-ee3d-4998-baf3-799d0b99cee4,Concepts
+4a607dbe-dff7-4f2a-8b0e-f937ef42faf9,Data Modeling
+e1df6d67-4f0d-4664-8fd8-76b330862be5,Star Schema
+137e7fa6-9642-4f56-836e-4a835fbbecae,Snowflake Schema
+35c77409-038f-480f-b655-36f48ec29409,OLAP
+1f9e6471-0d45-49e7-bba1-68a6877fec72,OLTP
+1ce3e6c6-346b-4898-801a-8c76cf37d89f,KPIs (Key Performance Indicators)
+9657fc4e-d69c-49d2-87d0-7ee5a9f6ab28,Data Governance
+f40f4932-b9c0-40f3-b459-71124930dab8,Data Quality
+84ba255b-8fa3-45db-9589-dfed6bac23ca,Ad-hoc Reporting
+6d46ee00-9ede-4744-9d99-3c6934c65232,Self-service BI
+9548ff98-f520-4815-abf0-59bf84f0a9e2,Dashboard Design
+c0557dc7-d585-4448-a53d-6f4bbdbe5a58,Analytics Types
+1f315594-5faa-48e0-8ff5-2b732d61e1a5,Descriptive Analytics
+60c7a068-dcf1-4283-af34-a5041b407868,Diagnostic Analytics
+5695199c-dabd-4208-9c44-045a69399c53,Predictive Analytics
+0188a1c6-81c6-476b-9ecd-fd1375866660,Prescriptive Analytics
+97f0efda-0c27-4fbc-85fa-63b4bed26abd,Programming & Scripting
+d9e7cd6c-fe9b-4bcb-9764-1624667a3819,Languages
+3231faab-5d27-4f29-bae2-754fb7090f05,SQL
+8c8f89fc-b3fa-4ddc-a3f5-e6ec39010c2a,Python
+7d175132-35f0-4828-98b0-b88de6514ce3,R
+900e8daa-5274-4553-b7ca-a187a13b4d23,Cloud & Modern BI
+a3068a66-9adc-4204-8636-bc63b0445388,Cloud BI Tools
+6136b112-9f74-4913-b585-112d936ae379,AWS QuickSight
+6acdfffc-672b-4600-9ab9-bf0fdb5906ee,Google Data Studio
+ce66ee3d-8c1f-43a1-b959-f71f2695bf4f,Microsoft Power BI (Cloud)
+91559fe5-bd38-4ff3-8776-455682959fb2,SAP Analytics Cloud
+3605c484-3e38-49e5-ba42-6da58bdf4e6a,Machine Learning
+936bd85a-80c7-4ace-b693-1e0800d9d3ca,Programming Languages
+48ea961b-882d-4537-b1d0-dd5925e022e3,Python
+edcf3797-a888-440f-a1c0-65b4e4005c44,R
+b297dfbe-692d-420e-bc20-b1d60e63e3d2,Julia
+3430efde-7be5-4a60-beab-9a3dae9c4f9c,MATLAB
+39b24c54-1734-4aaf-aab5-6cb259b92bd9,Libraries & Frameworks
+0c697267-31c9-4335-b9c3-3581d3927ef2,Deep Learning
+7dbfd9d7-c1bf-49aa-b55b-2eb1dcc6c1e0,TensorFlow
+b98d4e01-cfdf-4c0a-a7a1-c4eaeae06636,PyTorch
+50f853d7-dfa2-436b-b663-9283b0681c74,Keras
+51452f1a-ef0f-4d68-8bf4-4a6e7172c885,MXNet
+e93a786a-84d6-4060-bf0e-dc4aec40aeb0,Caffe
+14dc5571-28ea-4ffe-9716-c5f273280888,Theano
+ce6824e4-c94d-461f-9655-150c4eef6003,Traditional Machine Learning
+1ab8f68b-8ba1-48a9-908e-80a7ac3a113c,scikit-learn
+47fc2975-bb24-4e8e-a4c2-4606298ff07f,XGBoost
+7378bc74-1ecf-45eb-9144-070d7b02f4ad,LightGBM
+b37042d0-6ee5-4eee-8346-5aa6598d136a,CatBoost
+155e0989-46bc-43f0-a10a-520c85134307,Concepts & Techniques
+d6702893-22fd-4019-a08e-3e000472c19a,Supervised Learning
+60052da8-3da7-4832-a921-e1823d246edb,Unsupervised Learning
+88858307-9243-4b33-b3b7-163c7ed3fe70,Reinforcement Learning
+ec2426f4-32d4-4a4e-b9f1-3b8bbbc717dd,Semi-supervised Learning
+89001cea-9d5f-49fc-9f7f-b0e151d2821f,Transfer Learning
+4428c378-13d9-4a89-ae83-2fdcba2e8d41,Feature Engineering
+c4c01cd7-3eaf-41fc-b133-fef75debf1a3,Model Selection
+59aa4d9f-bd7c-408c-bde6-ec776ef4c411,Hyperparameter Tuning
+29e36a1f-b4c2-4eae-8972-c6c36b870d74,Cross-validation
+5313da81-cd9f-4aaa-9a9c-d7130e96eadb,Ensemble Methods
+cca1da30-f929-43f6-878a-4f2a7cda6a18,Dimensionality Reduction
+a39f84e8-9d59-4e12-91d9-d95554ec380a,Clustering
+2932671e-f4ea-493e-a791-5d13ba0ae4f8,Anomaly Detection
+29d0fb8b-d2fc-4541-b5ac-9e57bdb55364,Data Processing & Visualization
+1a1c2603-7992-4c48-9a54-36f796ba202f,Data Manipulation
+222067bd-66ce-46de-a57e-ce98bfa9f3cf,Pandas
+59f26247-af4b-4c15-8496-5247b1d25ee9,NumPy
+948a05eb-69a6-4831-88eb-47751cbbe29b,Data Visualization
+4d65e787-b086-42d0-ab2a-9ea4ccd534e8,Matplotlib
+c57d42c1-6017-4ed8-88d6-40f83a684a4d,Seaborn
+d4d29bb9-1a72-4856-93ee-5a80f3b70ca5,Plotly
+e7126d04-6eab-4513-bf06-03885b568fcf,Bokeh
+8db609f1-2598-4330-a776-e74e07a18e76,Evaluation & Metrics
+2c581cfe-3df3-443c-9dc1-376bc9cfa400,Accuracy
+b1d4ac66-05d2-49aa-bfee-7c32d49e019a,Precision
+98692ebc-8dd4-45e0-9bda-52daaac8a0a2,Recall
+323a8eb4-7020-405a-af5c-c3609fcf3dad,F1 Score
+d63eadb3-1a65-456f-8e4f-e7fda6db5d47,ROC-AUC
+dd0ba7c6-6cc4-49cd-a243-3614630efecc,Confusion Matrix
+c65d42f4-21b5-4bfb-a4be-604307e3b8bc,Mean Squared Error (MSE)
+d95f53a4-08d0-4733-93fd-ede7e53672cb,Root Mean Squared Error (RMSE)
+8931fe49-aecf-4ef0-ac26-fda4a3f53f04,Mean Absolute Error (MAE)
+7883f071-1319-4ab4-b2b0-da997ddff061,Deployment & Production
+85fcc090-0efc-4154-9c16-5307146aaff7,Deployment Techniques
+c2a5429c-2140-44db-a52f-c421c52e7919,Model Deployment
+f0b25bf6-e472-4a74-87bd-9b742430d3b6,"Building APIs (Flask, FastAPI)"
+622c147a-9980-4c99-81b6-7a98d8854577,Containerization (Docker)
+d4b3f09a-e356-4ca2-a7cf-9f8d60a2cea3,Serverless Deployment
+000f8e41-3208-49ad-9407-5d4fe80ac98a,Cloud Platforms
+87fe866e-98bd-464a-b44e-687ae3091489,AWS SageMaker
+ad26861b-92a4-4ffb-97e0-59991f34b8fd,Azure Machine Learning
+7b9663e4-ac3e-4e6d-93a5-0c136edb1f14,Google AI Platform
+bc77fb01-64a6-4423-aed7-1880afae55be,Tools & Platforms
+ab84c848-94c7-41e4-9b5a-b9ac8353c9a1,Jupyter Notebook
+04266f05-f2a0-4c5c-9461-e9f44e4a08a1,Google Colab
+c14d9bbf-ca6b-470a-85f8-3c1be676419c,"Integrated Development Environments (VS Code, PyCharm)"
+919bb3c4-ef4a-4213-a78a-b3eb9a6bdbe6,MLflow
+3ea15e38-8296-4583-8ebc-04932f07d915,TensorBoard
+060c8a24-dfeb-4f9a-a1d6-92124d9f0a32,Kubeflow
+a9abcfef-7b85-4b00-b9f0-02aa721f8099,Certifications & Courses
+a1208c05-c269-4f95-a705-cf84565b7f2c,Coursera Machine Learning (Andrew Ng)
+a55c7a2d-511a-4db1-a0b8-eaa25e2b0127,Deep Learning Specialization (Andrew Ng)
+2fcbb24f-9062-4797-b0ac-80cc402923e7,Udacity Nanodegree (Machine Learning)
+a3c0f0d7-3531-4570-b942-a3a07d36d120,edX Professional Certificate in Machine Learning
+187887e3-6e0e-4a32-80f2-c5940df67189,Google Cloud Professional Machine Learning Engineer
+06aad045-9283-48e2-95af-c2304a6cea0c,Database Management
+f8f684fa-2efb-46ba-a356-94c9078a429d,SQL Databases (Relational)
+660b4c3a-6a8e-4675-b694-6bd90e2e90d3,Database Systems
+58533376-fb3d-4b95-84c2-600f61080c27,MySQL
+53995ea4-2ce3-46bc-8460-db3c106b8c9c,PostgreSQL
+fabb436f-f169-47ba-bc34-c331dfd5fc40,Oracle Database
+9899d11a-1312-4eb6-9357-6a2adde7423c,Microsoft SQL Server
+78ecb47c-7097-42ec-8248-753725e22431,IBM Db2
+d584f533-0c75-4a7d-a79e-2e11cba2dcad,SQLite
+8107e66d-8ff1-437c-917f-804ee75492ad,Core Skills
+c5c8f95c-2fe8-4220-9ab4-b5847d4bd219,SQL Querying
+c9ef11b9-3ed1-481a-a310-06311dad11f3,Schema Design
+9de2526a-bb85-4f3e-ba87-a96d202684c8,Normalization
+cbd3c777-9e62-4ef7-9f14-da9f570decfe,Entity-Relationship Modeling
+46f9f9a8-c40c-44df-9ba8-a44bdfb30adc,Transaction Management
+a90988a7-be2c-40b3-b639-b7c8ff9a5f14,ACID Properties
+a1d56a94-e2ca-4591-b86b-038cc434fe34,Locking & Concurrency Control
+ae3496e8-84ef-4f06-8bc8-0ee9e719d2d9,Isolation Levels
+6c747d29-db4d-42c9-92b5-85f67e715b86,Stored Procedures & Functions
+975d7fee-00ac-4482-96b2-c5b70306e3d4,Triggers & Views
+2aeb5623-fec0-4b43-be3c-ac6a4c85d092,Performance Tuning & Optimization
+2a1115ec-334d-4546-9996-2dcb8cdd1f7b,Query Optimization
+882963b7-7743-48e0-9702-9bbb09a13909,Indexing
+1a6361bb-e4a2-44ba-8039-d9e809908d60,Execution Plans Analysis
+7c32d0d0-b35c-4faf-9b73-392a40847feb,Partitioning
+57811baa-b75c-4bef-8a8c-6282d4fb39b1,Caching Strategies
+9608f58a-4e95-491e-9c72-c5ce543d1ec5,Tools & Administration
+d375cbb4-235b-4d92-b248-a8f68f9cc679,Database Administration Tools
+89eddc81-4de6-46fa-acef-1ba5fead7118,SQL Server Management Studio
+8486d92a-bce4-4cfd-89db-e6357884519a,pgAdmin
+caed8a6e-c5e5-49d4-925b-b93a99c8fde1,MySQL Workbench
+a6039ea7-8192-4383-8bba-089fe19c8e2b,Oracle SQL Developer
+7ce4c30b-a422-47bf-ad85-c53d5bbcc1b0,Integration Tools
+a41b70b7-4e1d-4077-ac6f-2aff6126c30b,ODBC
+3311a8e4-e84c-45a1-9918-af924158fd8d,JDBC
+23c2705e-b81f-4587-824d-e4bec83c12d3,Backup & Recovery
+0e85c318-708e-4d77-8d78-a52d62581399,Backup Strategies
+47ed0ee5-187e-432d-967d-36d44b9fa4f8,Point-in-Time Recovery
+eb5c90b1-0cc5-4e16-9496-a25b65c2d537,Replication
+f7f4b6ac-1a70-422f-8235-424aa60e3dd6,Monitoring & Maintenance
+19a10301-09f3-4951-a18f-6cd379f3d574,Performance Monitoring
+4157febb-9fea-441b-bba3-9cd8c9a08f63,High Availability
+10a7604a-6fa4-46b5-b20b-e29cf623b133,Disaster Recovery
+815814c0-fd34-4018-9247-0207a19c8257,Security Auditing
+c3629eee-7468-4495-b2db-2c007bda4e38,Security & Compliance
+06ce0b3e-c0e6-43e9-86eb-84a2867df4de,Access Control
+d2bbbf9e-240e-4499-9e85-e7b83225ae8e,User Authentication
+425bd281-1d3e-4054-b847-33df26d41aa8,Role-Based Access Control (RBAC)
+790aa909-e62f-4cd7-93e4-0ec0a7a66a16,Data Encryption
+6638fbc3-d0af-4635-9c11-41c73a4d4a13,Auditing & Compliance
+8292482e-0982-48d7-9e1d-323a57c65ff5,GDPR
+f5c72246-59c4-470b-ad76-d84702ef8756,HIPAA
+8dcbe020-7aa0-4ad1-841c-5e12d4bf14e9,Certifications & Training
+f53fdbb1-d8b2-49dd-9ab2-70a8b8ae4f31,Microsoft Certified: Azure Database Administrator Associate
+b4f5eb53-0c5b-47ce-bd77-95cb4ee04dac,Oracle Database SQL Certified Associate
+09dfab16-cbed-43dd-a75b-dd424fb41591,MySQL Database Administrator
+43b3e9a0-c277-4aad-bf38-4a34a486e921,NoSQL Databases
+62036e81-eb8c-4b56-860b-12023b35c119,Database Systems
+0217c1c8-1574-4d7d-ab41-11575972d510,MongoDB
+9bbebdc5-7980-46c6-8c06-e9babc28aae1,Cassandra
+637274a7-9e8c-4a3a-8adc-144e83f0d36a,Redis
+b560a420-6cc5-432d-8c8d-9e180e19b022,CouchDB
+f296fbe7-f052-4554-9ba2-9f7428311be8,HBase
+5cd9dc83-a32c-4f1a-a6c3-35ec7dc8531b,Amazon DynamoDB
+3813ee51-239c-4f09-b275-667056f19667,Neo4j
+8a654b4d-b847-4973-83ef-068ed1d50465,Core Skills
+8cd4f8b2-33f1-4fec-a446-6d0b1a187268,Data Modeling
+c3416c73-b017-4079-a342-5dbff4a7f8c8,Document-oriented modeling
+385efa15-3a71-42e6-a7ab-106abe7d108c,Key-Value modeling
+28a40b8a-b2e6-41da-8f11-f2700ea377db,Column-Family modeling
+06ab0afe-fb03-4108-a8a1-b2a21b67e3de,Graph data modeling
+b4c83699-47ae-4fb6-b60f-95bf2bcf3d79,Query Languages
+35007ad4-3dec-4bea-a8c1-8b0e568fee83,MongoDB Query Language (MQL)
+d48e2cc9-6198-4515-a7e2-0643c7b303b4,Cassandra Query Language (CQL)
+0fec0542-80fa-404c-bf7f-e4431bfbb235,Cypher (for Neo4j)
+c8f974c2-b02f-4c2d-8022-373fdba14fa2,Gremlin
+b8dbaa20-a8ea-422b-852a-85ed2d2dacc9,Scalability & Performance
+7f90cd14-61b2-49fd-b3ea-93b8add4cf51,Sharding
+7219ed34-f401-47fb-bb1a-9b05f25f1a91,Replication
+4908a2a4-6bf8-4acf-b5c7-35fb49da9938,Horizontal Scaling
+a1c614c4-7ea5-498b-9763-58c69f22845e,Consistency & CAP Theorem
+68239671-987c-4c8b-a6f9-043bfda68e4a,Eventual Consistency
+f04e4189-bada-4696-b640-af5aaabf40bd,Strong Consistency
+789eb5e4-3ff7-44ae-ba7d-0632c4bde0c1,Partition Tolerance
+3ec96499-29cd-43e4-82ce-0502bffcc3aa,Performance Tuning & Optimization
+0a83968e-f751-4498-bd9a-37bea236581d,Indexing
+79b52a40-dfd2-46e2-b534-99ce5549934a,Caching Strategies
+d9ef3236-a8ef-442b-bc81-f0458c7071df,Query Optimization
+de558a61-a493-4531-b976-d27358560ca1,Tools & Administration
+52fec164-e365-4657-a117-f75423d10eae,Management Tools
+7ec99b02-8930-4909-a92d-9f8535904006,MongoDB Compass
+1aff7610-068d-41fb-96fb-81dfb28d624d,Cassandra OpsCenter
+77021f28-41cf-4b4d-9d89-913d4ae9fc85,RedisInsight
+ca55feec-f17c-456a-8002-4f9160752cea,HBase Shell
+0b4a0ab2-701b-4fc4-b216-ddfb6efca5b5,Neo4j Browser
+26193b04-44cf-4d6a-ba00-bf24f3a5613e,Backup & Recovery
+b2bc4403-dd7e-4c04-954f-fddeb3240545,Automated Backups
+6b83bbaa-0d2e-440b-aac3-26b0bb951049,Data Snapshots
+3a5c22e0-95b7-4f8e-bba2-87ebe7656591,Replication Strategies
+5d8ea2b1-fdc8-4c11-92f9-fb23654d06b5,Monitoring & Maintenance
+5ed8dc04-41e7-465b-83c5-6943ee507804,Performance Monitoring
+9281354e-9ede-44e7-8ae3-30daafb120f0,Health Checks
+ff61c260-82d1-4be5-af0d-7dbdb5af2a8d,Scaling & Load Balancing
+172bd8d3-bb70-44fd-bff3-5ed7c213e91a,Security & Compliance
+97876817-3037-425c-8619-fe2602704965,Access Control
+ad9a1e25-c845-4d1c-90e8-92fe9eae4f23,Role-Based Access Control (RBAC)
+25469a30-9d5f-492d-94e9-07282b5f95fb,Authentication & Authorization
+48e4a69a-e675-4703-8e73-80d140dbd89d,Data Encryption
+014c75a1-e0ef-470d-a20f-e004ce93c4bf,Encryption at Rest
+097a05f8-c36c-4328-93ce-f7d8386968b4,Encryption in Transit
+6b4e44c7-60f8-4909-91a5-bc7717490cb0,Auditing & Compliance
+668867cd-c905-44f2-8926-85b5913b2966,Certifications & Training
+194f361f-423f-467f-8cb0-68d927dc60b2,MongoDB Certified Developer
+0905b1e9-c17f-4398-9495-d544fa7863af,DataStax Academy (Cassandra)
+37bc7ded-abd4-4f45-a7aa-5cdbb8db4dcb,Data Warehousing
+33ca92c0-f63a-406a-aba4-91b79eb75cb4,Concepts & Methodologies
+12836771-22a7-4ec8-83e6-fbd11161fb75,Schema Design
+1601ffca-5cbc-4c40-85c6-7bafb3830f17,Star Schema
+aed1adea-c270-4fe7-a78b-c6c0a34a25de,Snowflake Schema
+31510aea-b7b5-4351-bc89-3f6986f843e5,Fact and Dimension Tables
+bc6ccede-4556-41e0-be0c-047517bcdbc4,Normalization
+7821cc00-244a-46b1-8a1c-7987e1febab6,Denormalization
+b77c636f-2ff1-42a8-9636-28661e50cb12,OLAP vs OLTP
+94b2aa4c-5624-475e-9d24-71619a8c8e45,Online Analytical Processing (OLAP)
+b849ad06-d817-486d-89c5-4bac0932154d,Online Transaction Processing (OLTP)
+53545c44-db79-4736-beca-8cf4ac9e4a4d,ETL Processes
+152645d5-6320-4f67-8ed5-6aa39824f89b,Data Extraction
+88a5b484-7385-4a09-bddd-c8e52cd48918,Data Transformation
+2ef90b77-6d8d-440e-bd32-a22b6dba428a,Data Loading
+68daa050-bab9-47c7-960a-4c5884997168,Data Modeling
+4693532b-33db-413c-913c-e271f758dbb1,"Conceptual, Logical, and Physical Modeling"
+63ecc87a-e91d-4682-9980-2d9515bb5314,Dimensional Modeling
+77b1bbab-df01-4c7f-abae-21af36f11a52,Data Integration
+9034c676-7872-4ea0-aa6e-976412f41917,Data Consolidation
+ea99c79e-5a8a-444a-a24f-1bc652276033,Data Migration
+4b18cf99-bb16-4265-a8b9-c111df60d2ca,Data Federation
+55a5a47c-a938-4c9b-b6e1-c1bc8b8ce638,Technologies & Platforms
+511dd80a-7ec7-4b82-8d90-c9febb876f99,Cloud Data Warehousing
+9fe8a69f-df06-48c6-bf81-c18ea4806437,Amazon Redshift
+8430ed13-5d50-460f-ad5a-4c42646f5840,Google BigQuery
+626e6d8c-7ac8-4777-9e48-1498f582378b,Snowflake
+81438c8f-f813-4351-a361-dc336c2549ba,Azure Synapse Analytics
+d9bf6c45-0f81-4c00-a088-6b164815f068,On-Premise Data Warehousing
+95912e77-ddb8-4910-8ce2-031a3aecb76f,Teradata
+ec174216-c8f2-4b37-b03d-16fbbe6e7ace,Oracle Exadata
+1a554bf5-e5cb-4da1-94f0-b3c701398b18,IBM Netezza
+07f4f261-42e7-4edb-9cb9-9a9869e262db,Microsoft SQL Server Data Warehouse
+a28a9ace-09a8-4b39-9f6f-2b5c96eb47e2,ETL & Data Integration Tools
+1596e55a-edfc-4477-830f-98c835237f62,Informatica
+3c5aa568-9226-4359-9a10-1f25be66d510,Talend
+56739047-f25a-41dc-8413-6e80fc7f9614,Pentaho Data Integration
+91c14990-2dfb-4933-8fd8-082905e89961,SQL Server Integration Services (SSIS)
+10bf2356-2d11-4a82-a913-770eaa9e3bef,Apache NiFi
+90747cc2-8c98-4344-8c82-d462ddc15b78,Performance Optimization
+41265cbd-206a-4c61-8f93-7e415c5e1d42,Techniques
+a70a53d9-f59e-4492-b8dc-47b21b79272e,Query Optimization
+b55661d6-ff72-47d3-aebb-442b3657b7d9,Indexing
+ce65fff8-e57c-45b3-aa72-2da27be84777,Partitioning
+6982d766-6fe5-4e40-a1c3-fdfab686edcf,Data Compression
+bec6615d-3a18-417c-ab67-7662ec319701,Caching Strategies
+4cf83c86-55b3-4eba-a6f5-f5cd6634eff3,Practices
+3f658432-0598-455e-89bf-d4a1ee1de51a,Workload Management
+5a15d1aa-1f31-4eb6-855b-f321bf171c3b,Resource Allocation
+c3178a4d-ef07-4e6a-a016-414d893e0d7c,Scalability Planning
+899943d6-3cd3-4790-b36d-2f09965df08a,Administration & Monitoring
+1795d2b6-d531-4004-a1b4-fb1a4aa9d6ba,Tools
+b460941c-baaf-4168-89bf-3ea46d4556a4,SQL Server Management Studio
+0f8cbd4c-9f41-41f0-9675-9a9e60a711b2,Oracle Enterprise Manager
+8d541588-4e72-406a-a513-e8b767f2f187,Custom Monitoring Tools
+da7de7cc-5e1f-493e-8d58-0df141fc90b0,Practices
+e7ec35a4-d33e-4747-afb0-097e1b46c758,Backup & Recovery
+fc22756c-8ca8-4d32-9e1b-428c2beb13ec,Security & Access Control
+07f7d357-21a5-46b1-87f3-848992c2d4ca,Performance Monitoring
+abcbaaee-925a-4c89-be52-3dcebc09014c,Data Governance
+1a5923a0-37cd-4952-984d-dffd14a1a13e,Data Governance & Quality
+1840f99a-e99d-4279-9db6-2d9b106d3bee,Data Lineage
+c687e33a-664d-46b1-9619-5ad1f4a61522,Metadata Management
+faea0206-c0c2-4d15-901b-c9fd5f21252e,Data Quality Management
+d6762f05-c2d9-4ca7-826f-b2303e47ccb1,Master Data Management (MDM)
+fb6be9b6-b850-4e47-a83d-26c8ce33bfe5,Certifications & Training
+6de638ee-776b-441e-9962-bdcc051b6807,SnowPro Core Certification
+20007393-cf24-48ba-b5c6-fca9d04f7ef7,Microsoft Certified: Azure Data Engineer Associate
+642ef195-eb97-442b-b1d5-0ca7ec6695d2,Oracle Business Intelligence Certification
+f44f9389-370b-41c4-bcb5-a01812298157,Teradata Certified Professional
+c79103be-152f-4028-9dd5-161df0f378e0,Networking & Systems
+3c1c64e5-432c-461c-bc97-cd002aaacf4d,Virtualization
+07ccd717-75e7-49e4-8134-a35f9d359c77,Virtualization Platforms
+3689fe13-7d53-4a54-8e14-53c182843239,VMware vSphere/ESXi
+ec0aa754-c3f4-4386-8ff3-54a39f89afc2,Microsoft Hyper-V
+0daab2dc-2e20-4fe3-b0a2-63f717d027db,KVM
+4c344a4c-fa73-49ee-83a3-613a05ba1e33,Xen
+5d2956cd-e0b5-4798-81df-203ed9f384fd,Oracle VM VirtualBox
+a8d29733-b0d4-4308-9087-b5b6f3acaa10,Citrix Hypervisor (XenServer)
+35e23531-78ad-4f6f-a52a-9020e0790edc,Containerization
+4b8578bd-5ad2-4042-a701-d64415d13b85,Docker
+6236dda0-0984-40bb-a77b-2cf76b544211,LXC/LXD
+e14812f8-50c2-4475-8148-cfbce9e0ca9c,Podman
+729d750e-2f12-4c29-9982-30b4ed8716d8,rkt (Rocket)
+095e6c25-f8ed-4e04-a2d3-8a689f85d8ea,Kubernetes (for orchestration)
+7f8c3845-250b-4346-a420-920f91521dd0,Virtualization Concepts
+64aa3c0a-7c53-4792-b336-5eac69570ed6,"Hypervisor Types (Type 1, Type 2)"
+cc14a008-5ddb-424f-962f-3ae0d0688f52,Virtual Machine (VM) Provisioning
+12bc0e4b-0952-4701-9e99-b948a2980199,Resource Allocation & Overcommitment
+3e3ccafd-4787-4c8d-a49d-17d0b9fedddc,Live Migration & VM Cloning
+62cfcf04-1e8f-4468-ac38-972317c6a74c,Snapshots & Backup
+5d095d99-e5df-4ac4-80fc-cbc6c1342fdb,High Availability & Fault Tolerance
+5481bfc5-4873-4161-be5e-72f3e042c141,Virtual Networking
+110cc2d5-ce60-499b-9c94-9ca48e9d9e32,Storage Virtualization
+401bcc1c-b144-4b2b-8c2d-aa4a0237450c,Security & Isolation in Virtual Environments
+13d1a865-c749-45eb-9663-67b516e6e649,Management & Monitoring Tools
+249fd956-6a14-49a8-892c-95e9faf34129,vCenter Server
+74f6757e-4419-4ed9-8f41-0f9deda7c1d3,Microsoft System Center Virtual Machine Manager (SCVMM)
+7ecfe00d-604e-4780-a630-76dbb1c12c97,Proxmox VE
+ed2cb07c-93b6-459c-aa86-07d39d29a725,OpenStack
+c60691f9-5e67-46af-9567-309d245b6934,Virt-Manager
+ec461d23-ae01-47c6-8971-ff512e67b699,VMware vRealize Operations
+0c5bdb90-8ba2-4f98-8411-c78d961d9bfd,Performance Optimization & Tuning
+e642345b-5937-415e-9e9b-fdc4a1f55e3b,Resource Scheduling
+b816ed0c-7ef5-4607-83bd-b5bd10e8bd94,Load Balancing
+85dfb679-3fb3-495d-a057-d4ff53a514cd,Capacity Planning
+0722f053-83fc-43d9-86ae-aa6f2a680ffd,Performance Monitoring
+8b3d97fd-2922-4f96-81c7-06b567b8a417,Benchmarking and Tuning
+3ac986d5-5d1d-4e45-a52a-6f01982e57cc,Overcommitment Management
+39b33e13-a844-4c2c-b025-ca9fe49f4ce7,Backup & Disaster Recovery
+d913fb9c-b2b5-4b15-aa95-8e3aae374031,VM Snapshots
+7029fd96-5ad3-434a-8342-52d8bf4d9513,Virtual Machine Backup Solutions
+d0b8178c-9c50-4aa3-887e-b8267ca9188b,Disaster Recovery Planning for Virtual Environments
+7bb1e6c0-cb3c-4bcb-8f97-251ed26eed16,Certifications & Training
+4eec8f0e-ce90-4e2a-b9d7-56fffa96cb32,VMware Certified Professional (VCP)
+3d8991f0-eeeb-40fb-b8fd-25cf03adedee,Microsoft Certified: Azure Administrator (with Hyper-V skills)
+f9c8c3ab-bdf0-416d-93fd-0f091d9c07dc,Red Hat Certified Specialist in Virtualization
+3930d930-0b34-4fa3-a663-f5e2a2e79b93,Citrix Certified Associate – Virtualization
+f429dd8d-ae60-4c68-acea-4a97f05ef913,Network Administration
+1de3ce97-2626-4506-9328-1bcc66aa6c9b,Core Skills
+49d08954-06e1-497b-bbe9-c4ab59145f25,Router and Switch Configuration
+3c127333-3f58-4986-a25d-789501dd74d2,Network Troubleshooting
+a6308859-d9f5-43be-91f5-fda6ea4de795,LAN/WAN Management
+fd905fd9-7880-438a-aa50-433e9b784cf5,IP Addressing and Subnetting
+64a8f5fb-b0d5-484f-9719-042050f2d12c,VLAN Configuration
+f8ff3947-318a-48b8-87b0-19a763f6b667,Wireless Networking
+93a38b9d-ca12-4c80-9520-0a02e5240218,VPN Setup and Management
+bd1d0e87-c705-4d37-b3e7-43bee542f9d8,Network Security Basics
+f797f531-029c-4db0-8713-d021a83e0eb5,Concepts
+3203c784-7bbf-417e-ad17-8e866d8e1f53,OSI Model
+e0e96e6a-8550-40c2-87cf-26a2f7e23548,TCP/IP Model
+f717fb76-a1d9-4035-a8d0-b8f37c95742d,"Routing Protocols (OSPF, BGP, EIGRP)"
+47b2d988-784c-494a-90a4-59159eb91603,"Switching Concepts (VLANs, STP)"
+62ceaab9-2cbf-4b45-a826-8799f0a2b2b1,Network Topologies
+8afd3005-dfa9-49b5-b7ba-2e8b6d3b3ca4,Quality of Service (QoS)
+6623a899-596b-4bf3-8a29-ff0dc9ab8e88,Tools & Technologies
+1f8978b6-cf3f-4c96-b65c-273e93440d3e,Hardware
+22903b57-2b51-4757-abd6-8003bf46b965,Cisco Routers
+bdade834-7dea-4044-b822-79c9c7ce7f16,Cisco Switches
+0e99854c-bbef-4c0c-8bf9-c0c2bcd84cde,Juniper Networks Equipment
+174b8d05-39a3-4a12-a1cd-14b17fe3cab6,HP/Aruba Switches
+2fa775ee-a818-4a97-af26-3ab8671faaa3,"Firewalls (Cisco ASA, Palo Alto Networks, Fortinet)"
+3f9411f9-b314-4cc3-9518-68f9c4f87df2,Software & Monitoring
+c2245445-80e4-4a44-8f03-9e205bffeff8,Wireshark
+4fd813f1-dfa8-48a6-9af3-0486fc708b83,SolarWinds
+7da7e751-77e8-49de-866f-d0dd5560b689,Nagios
+9855c335-1f9c-4dc2-a01a-bd5d69818103,PRTG Network Monitor
+59e2ac65-d7c9-422b-9dd2-6b765734180c,Cisco Network Assistant
+081ed0df-8c4d-4898-9117-08284e401ebf,Configuration & Management
+189541ae-0266-4867-810b-7c384a077374,Command Line Interface (CLI)
+0e0e4280-4fe0-4826-a1e9-d2710ce42197,Network Management Systems (NMS)
+9ca0a81d-7f4c-4214-ab02-19736f4d275d,SNMP-based Tools
+0f1b2b8c-45f5-43ba-b319-3e0a296370a7,Security
+e76580ee-3d57-44c3-aebf-fbedb2e1d75e,Access Control Lists (ACLs)
+4553555a-8b6d-4373-8a86-0b07414425c2,Firewall Configuration
+7a92d4e6-bfb0-4a26-83ac-84a5845b8235,Intrusion Detection/Prevention Systems (IDS/IPS)
+0b6b1db8-696b-4cf2-b69c-1533d1d43bec,VPN Security
+608b255b-ceec-4021-961c-959455306ba2,Network Segmentation
+44c12bfb-5613-4886-bb40-504766e4f569,Certifications
+d8da064d-ca42-4626-841c-05372f7f6e38,Cisco Certified Network Associate (CCNA)
+4b7114bb-568f-4ec4-937b-716e71581fc4,Cisco Certified Network Professional (CCNP)
+9cd5e9f0-ffd5-4a5a-b766-e8400634d4e1,CompTIA Network+
+20999a26-2129-423b-97d4-aefaca9ddfaf,Juniper Networks Certified Associate (JNCIA)
+1b8ca625-de93-4c66-bf85-cd879a79728a,Best Practices & Processes
+0bee65d9-68b4-4799-9ab2-fc8db003e106,Network Documentation
+9478e162-9f05-4ce3-9f38-8cbec63f5fd9,Change Management
+30eb2621-c26f-4160-aa4a-2fc4a03c93dd,Capacity Planning
+bd29eda8-3fcb-4348-a36d-6926a329ca0c,Disaster Recovery Planning
+5c954c85-ef69-4413-b0fa-7a94f830e4cf,Regular Network Audits
+be80852c-083e-4944-baf8-776381c30932,System Administration
+534c3c77-1230-487e-9a05-2848d85d76f2,Operating Systems
+a05cab06-68b7-403b-bed9-a19f6a919707,Linux
+66995fd8-34e7-4bfe-a1c9-1c38c7f2b69a,Ubuntu
+c2c40ca1-7c27-4cbf-bf02-c73e77bcd8ec,CentOS
+dbc865dd-cdb4-4f58-bfa6-791f9c64b33d,Red Hat Enterprise Linux (RHEL)
+f4b2e97d-ab0a-42a9-a1d1-ad14102b6ecf,Debian
+013ae32f-d6ff-4365-bc3a-b08c19d115a8,SUSE Linux Enterprise
+e73a2840-039e-4977-935f-7f31abcce3e8,Windows
+843952a3-3983-48d6-80d6-18b8f93f6c20,"Windows Server (2016, 2019, 2022)"
+377ae9fd-cfd2-4e0e-b652-e60c4a2a7d23,Unix
+d55f848b-05be-4ec0-a193-bf3491041c1b,FreeBSD
+cf2aa828-1970-4752-bd80-8f996d79a5e3,OpenBSD
+0e83889b-4967-4277-8197-4a1e3435f791,Solaris
+e3405983-bd7b-4307-8413-4c5c292ffd15,Server Management
+901facbc-65eb-4c25-ac8d-1a346eb18f1a,Installation & Configuration
+10354c7f-aec2-417f-bffa-e8575fa56096,User & Permission Management
+8d2d1cf3-ad48-4d3b-ae54-da20ccd22d0b,Service & Process Management
+47b80a08-6901-4d1d-bf2d-63f218f76adf,Patch & Update Management
+a62b9247-91eb-4fc6-9455-b403eea59893,Hardware & Software Inventory
+8d3170ef-7ee2-4a3f-9cf3-4ce06c8d3cfa,Scripting & Automation
+27b25848-3e5a-4d5c-8a2b-2b6e14a6638a,Scripting Languages
+a541a180-2039-4b7b-aa18-340adde421e3,Bash
+c866b0d8-9b54-4079-9141-43c2e45272cf,PowerShell
+4c4c218d-ccfb-4e0b-b2bb-11b2e654ab17,Python
+00abb9ad-c9a3-49fd-93ee-35c19a0ee1b8,Automation Tools
+ba2f33b8-245d-4e70-8841-6354aa3e234a,Ansible
+574cca54-fd99-4f4c-a2b5-f800dee63f71,Puppet
+8e3b9a95-6d4b-49e3-b8ca-625c23b4445f,Chef
+67101c5c-b6e2-4312-a749-9498c19030e6,SaltStack
+60b2a32a-7ead-4f7d-9034-3a9b1ae221ee,Virtualization & Containerization
+3e7a073b-531f-42f6-beb6-e5c8ad013d17,Virtualization Platforms
+81965e48-eae3-4350-a631-b49190bdd23c,VMware vSphere/ESXi
+dac92819-816d-4090-a176-4566de785d58,Microsoft Hyper-V
+a90c0f27-2f9f-4f79-88d6-0a608735a730,KVM
+4fc3ce3e-1104-4a39-86c4-6cc041468ed9,Xen
+7ac7a240-1b51-4b5d-8ac4-5e2d0fac2e0e,Containerization
+190e92a8-b380-4856-a5dc-4695b9f4cf7b,Docker
+5c7858d1-ff3f-49be-ae92-9c826e3ff787,LXC/LXD
+cd33915a-ba4c-47b3-a455-3fac1e5c8c1b,Monitoring & Troubleshooting
+27bbd4ee-32ea-40e4-9cb7-e2bc5868ce08,Monitoring Tools
+b864d716-d0bd-4d8a-ace0-1ff30bfdfaae,Nagios
+d64c6cec-cc7a-47cd-94bc-8e77edcacd06,Zabbix
+f2b19cd7-40fb-47d9-9b2e-0d220430b46d,Prometheus
+dd424764-619e-4e46-8bf9-877838588d8d,Grafana
+4d540b71-1d69-43e7-a30d-83790b5a7564,SolarWinds
+f35726a7-ca56-4e53-9c3b-3f88e7dbff59,Log Management
+4f038a26-c201-497c-be32-f33b64a3daa3,Syslog
+28c0e565-cc52-48df-9752-9aefc2fbda13,"ELK Stack (Elasticsearch, Logstash, Kibana)"
+9b520c87-3ed1-4b56-af58-9539f86f33d7,Splunk
+835df9d0-c948-49e6-8ac4-d0b10478e948,Troubleshooting Practices
+320d8e78-e811-4e10-9cb5-78caa28fc8e4,Performance Diagnostics
+6abc69da-30c0-43ca-8341-668b0fb84528,Resource Utilization Analysis
+8e5d05a2-b078-4b2f-85f5-045ad39377d1,System Log Analysis
+16d1f3ac-e482-4d2c-8855-16bee7c7a903,Network Troubleshooting
+c537e343-2b3b-4bd6-8ee5-7fdbf3fc2333,Security & Compliance
+2b43276d-f3c7-4a73-9e95-4c2a7d03deb1,User Access Control
+b4f06972-4691-4d46-836f-7bc356ab717c,Firewall Configuration
+232ec7d6-12da-46ac-bcdf-1d4d6cd9dce1,Antivirus & Anti-Malware
+827b632c-e7df-4e58-8a29-d7cf4390ae25,Security Audits & Hardening
+2861ee72-48f3-4bb1-b646-7d35d02d97c6,"Compliance Standards (e.g., HIPAA, PCI-DSS, GDPR)"
+251fa1b6-4102-4dee-baf3-a020178b3f78,Backup & Recovery
+67216c8a-672c-48e2-ab4e-6befa3f1f887,Data Backup Strategies
+6e86ff8e-ab38-4b74-98f5-39b65daabdc2,Disaster Recovery Planning
+50d6eda9-4d05-4f50-8bd5-f4dd90e911c2,"Backup Tools (e.g., Bacula, Veeam, Acronis)"
+789a9b44-3ea9-4b23-99a7-63343a346bd6,Performance Optimization
+437f5e09-c730-463e-b77a-b4a6931c23b5,Resource Monitoring
+d0b2d285-2c9b-479d-9368-0c980c835f50,Load Balancing
+fdb9b9c9-01f8-495e-b920-aa9e6d9dea78,System Tuning
+6b4e75d5-d985-4cb3-b82f-378b06a1d105,Capacity Planning
+f4e647df-f451-4eeb-aa2b-7ec1d691bb3a,Caching Strategies
+5bfa5c8e-70bb-4dea-89ab-0775658b3a2d,Cloud System Administration
+fad10735-cb6b-4f82-88d6-0ecb6c55dad0,Cloud Platforms
+68e6b1b2-3d21-4e7b-8d4d-e03d281e3064,"AWS (EC2, RDS, etc.)"
+e3124e8a-ea37-4b35-896e-a8bfb19a21a3,Microsoft Azure
+16418daa-9160-409f-88b7-221762c877d8,Google Cloud Platform
+c7fc71af-2412-4c42-8b84-3227a68f34d5,Cloud Tools
+f04dfd81-c64c-4047-ad48-a7793f72ecfa,AWS CLI
+b3219710-7c1e-4183-8ba0-f8264c253470,Azure CLI
+c2aae396-cfde-4667-bc06-3568a2ec81b3,Google Cloud SDK
+d6344633-c375-45f8-8b26-e501d76147a3,CloudFormation/ARM Templates
+0f65948b-e91c-40d1-81ac-872cf647c730,Certifications
+e7b202c2-1e0e-45e8-ad92-abf5958b56ae,Red Hat Certified System Administrator (RHCSA)
+305639bc-dc60-47d1-abc5-38553d35c085,Red Hat Certified Engineer (RHCE)
+5a8d2d08-5d06-4cab-bdc3-1063c489540c,CompTIA Linux+
+baa3cfad-093f-4de0-810e-0e9f39bb8a1a,Microsoft Certified: Windows Server Administration Fundamentals
+112cc7aa-8f00-4070-ad87-8710bcf59a4f,VMware Certified Professional (VCP)
